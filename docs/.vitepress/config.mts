@@ -53,12 +53,12 @@ export default defineConfig({
       {
         text: '<span class="i-lucide:badge-info"></span> About',
         collapsed: false,
-        link: '/denpa-song/about/',
+        link: '/about/',
         items: [
           {
             text: '<span class="i-lucide:book-marked"></span> Glossary',
             collapsed: true,
-            link: '/denpa-song/about/glossary'
+            link: '/about/glossary'
           },
           {
             text: '<span class="i-lucide:book-open-text"></span> 🚧 Description',
@@ -79,7 +79,7 @@ export default defineConfig({
         items: [
           {
             text: '<span class="i-lucide:file-search-corner"></span> Portals',
-            link: '/denpa-song/resources#portals'
+            link: '/resources#portals'
           },
           {
             text: '<span class="i-lucide:book-marked"></span> Glossary',
