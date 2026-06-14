@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
 
+const isProd = process.env.NODE_ENV === 'production'
+
 export default defineConfig({
   vite: {
     plugins: [
@@ -9,7 +11,7 @@ export default defineConfig({
       })
     ]
   },
-  base: "/denpa-song/",
+  base: isProd ? "/denpa-song/" : "/",
   cleanUrls: true,
   title: "denpa song ♪〜",
   description: "resources",

@@ -1,1 +1,10 @@
-node_modules
+# VitePress build output
+.vitepress/dist
+docs/.vitepress/dist
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
