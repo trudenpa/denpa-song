@@ -12,5 +12,10 @@
 [![Lucide](https://img.shields.io/badge/Lucide-f5a8c7?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
 [![Discord](https://img.shields.io/badge/Discord-f5a8c7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BFmCKFvMzA)
 
-<img src="https://invidget.switchblade.xyz/BFmCKFvMzA" alt="Discord Server" width="400">
+<div align="center">
+  
+<a href="https://github.com/denpa-song-archive/denpa-song">
+  <img src="https://denpa.aishitei.ru/assets/banner.png" alt="Denpa Icon" width="200"/>
+</a>
+
 </div>
