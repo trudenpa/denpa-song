@@ -1,3 +1,5 @@
+<div class="pre-table">
+
 | Release Date | Title | Video |
 |--------------|-------|-------|
 | 1969 | すきすきソング | <VideoLink src="/videos/水森亜土 アッコちゃんすきすきすき.mp4" title="すきすきソング" /> |
@@ -54,3 +56,5 @@
 | 1999 | ドリルでルンルン クルルンルン | <VideoLink src="/videos/d4-princess-ed.mp4" title="ドリルでルンルン クルルンルン" /> |
 | 1999 | 北へWhiteillumination OPテーマソング | <VideoLink src="/videos/北へWhiteillumination OPテーマソング.mp4" title="北へ" /> |
 | 1999 | メンチ・哀愁のボレロ～食すのね | <VideoLink src="/videos/メンチ・哀愁のボレロ～食すのね.mp4" title="メンチ・哀愁のボレロ～食すのね" /> |
+
+</div>
