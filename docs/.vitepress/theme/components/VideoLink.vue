@@ -1,4 +1,5 @@
 <script setup>
+import { play } from '../playerState'
 import { withBase } from 'vitepress'
 
 const props = defineProps({
@@ -6,11 +7,13 @@ const props = defineProps({
   title: String
 })
 
-const videoUrl = withBase(props.src)
+const videoSrc = withBase(props.src)
+
+console.log('VideoLink loaded')
 
 </script>
 <template>
-  <a :href="videoUrl" target="_blank" rel="noopener noreferrer">
-    {{ title }}
-  </a>
+  <button class="video-link" @click="play(videoSrc)">
+    Play
+  </button>
 </template>
