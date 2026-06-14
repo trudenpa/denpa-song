@@ -1,0 +1,1 @@
+import{c as e,Q as t,j as c}from"./chunks/framework.DzbS7Pun.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"misc/culture.md","filePath":"misc/culture.md"}'),r={name:"misc/culture.md"};function a(s,o,n,i,m,u){return t(),c("div")}const d=e(r,[["render",a]]);export{p as __pageData,d as default};

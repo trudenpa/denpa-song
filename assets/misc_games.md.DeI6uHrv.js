@@ -1,0 +1,1 @@
+import{c as e,Q as t,j as a}from"./chunks/framework.DzbS7Pun.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"misc/games.md","filePath":"misc/games.md"}'),s={name:"misc/games.md"};function c(r,m,o,n,i,p){return t(),a("div")}const f=e(s,[["render",c]]);export{_ as __pageData,f as default};

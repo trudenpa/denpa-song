@@ -1,0 +1,1 @@
+import{c as e,Q as t,j as a}from"./chunks/framework.DzbS7Pun.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"misc/packs.md","filePath":"misc/packs.md"}'),s={name:"misc/packs.md"};function c(r,o,n,p,i,m){return t(),a("div")}const f=e(s,[["render",c]]);export{_ as __pageData,f as default};

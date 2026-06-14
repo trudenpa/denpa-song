@@ -1,0 +1,1 @@
+import{c as a,Q as e,j as t}from"./chunks/framework.DzbS7Pun.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"language/amv.md","filePath":"language/amv.md"}'),n={name:"language/amv.md"};function r(o,s,c,m,p,d){return e(),t("div")}const _=a(n,[["render",r]]);export{l as __pageData,_ as default};
