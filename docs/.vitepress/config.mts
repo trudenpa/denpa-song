@@ -6,13 +6,9 @@ export default defineConfig({
     plugins: [
       UnoCSS({
         configFile: './uno.config.ts'
-      })
+      }),
     ]
   },
-  base: "/",
-  cleanUrls: true,
-  title: "denpa song ♪〜",
-  description: "resources",
   head: [
     ['link', { rel: 'icon', href: '/assets/icon.ico' }],
     ['meta', { property: 'og:title', content: 'Denpa Song Archive' }],
@@ -22,13 +18,23 @@ export default defineConfig({
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:image', content: 'https://denpa.aishitei.ru/assets/banner.png' }],
   ],
+  sitemap: {
+    hostname: 'https://denpa.aishitei.ru'
+  },
+  base: "/",
+  cleanUrls: true,
+  title: "denpa song ♪〜",
+  description: "resources",
+  lastUpdated: true,
+
+
+
   themeConfig: {
     logo: '/assets/icon2.png',
     outline: {
       level: [1, 3],
       label: 'ｷﾀ━━(ﾟ∀ﾟ)━━!!!!.'
     },
-
     search: {
       provider: 'local',
       options: {
@@ -56,7 +62,6 @@ export default defineConfig({
         }
       }
     },
-
     sidebar: [
       {
         text: '<span class="i-lucide:badge-info"></span> About',

@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Denpa Song Archive"
+description: "Denpa Song Archive to please the heart of otaku!"
 ---
 
 <div class="denpa-hero">
