@@ -1,0 +1,1 @@
+import{c as e,Q as t,j as a}from"./chunks/framework.BPKcPtvA.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"misc/packs.md","filePath":"misc/packs.md","lastUpdated":1781448202000}'),s={name:"misc/packs.md"};function c(r,o,p,n,i,d){return t(),a("div")}const f=e(s,[["render",c]]);export{_ as __pageData,f as default};

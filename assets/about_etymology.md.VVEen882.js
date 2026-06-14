@@ -1,1 +1,0 @@
-import{c as t,Q as e,j as o}from"./chunks/framework.BPKcPtvA.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/etymology.md","filePath":"about/etymology.md"}'),a={name:"about/etymology.md"};function r(s,c,n,m,l,p){return e(),o("div")}const _=t(a,[["render",r]]);export{i as __pageData,_ as default};

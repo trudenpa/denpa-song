@@ -1,1 +1,0 @@
-import{c as e,Q as a,j as t}from"./chunks/framework.BPKcPtvA.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"language/lyrics.md","filePath":"language/lyrics.md"}'),r={name:"language/lyrics.md"};function s(c,n,o,i,l,p){return a(),t("div")}const m=e(r,[["render",s]]);export{_ as __pageData,m as default};

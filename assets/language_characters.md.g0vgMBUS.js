@@ -1,1 +1,0 @@
-import{c as a,Q as e,j as t}from"./chunks/framework.BPKcPtvA.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"language/characters.md","filePath":"language/characters.md"}'),r={name:"language/characters.md"};function c(s,n,o,p,d,i){return e(),t("div")}const m=a(r,[["render",c]]);export{_ as __pageData,m as default};
