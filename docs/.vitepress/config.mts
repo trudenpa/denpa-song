@@ -11,7 +11,7 @@ export default defineConfig({
       })
     ]
   },
-  base: isProd ? "/denpa-song/" : "/",
+  base: "/",
   cleanUrls: true,
   title: "denpa song ♪〜",
   description: "resources",
