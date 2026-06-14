@@ -9,7 +9,7 @@ export default defineConfig({
       })
     ]
   },
-  base: "/denpa-song/",
+  base: "/",
   cleanUrls: true,
   title: "denpa song ♪〜",
   description: "resources",
