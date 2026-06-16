@@ -1,5 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
-import './custom.css'
+import './styles/index.css'
 import 'uno.css'
 import Layout from './Layout.vue'
 import VideoLink from './components/VideoLink.vue'

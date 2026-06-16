@@ -1,0 +1,28 @@
+/* ========== TABLES ========== */
+
+.vp-doc .table-container,
+.vp-doc div[class*="table"] {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: auto !important;
+}
+
+.vp-doc table th {
+    background: var(--vp-c-bg-soft);
+}
+
+.vp-doc table tr:nth-child(even) {
+    background: #fff8fb;
+}
+
+.vp-doc table tr:nth-child(odd) {
+    background: var(--vp-c-bg-soft);
+}
+
+/* Directory table images */
+.directory-table-wrapper img {
+    width: 200px;
+    max-width: 200px;
+    height: auto;
+    border-radius: 0px;
+}

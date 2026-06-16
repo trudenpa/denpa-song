@@ -1,0 +1,11 @@
+@import './variables.css';
+@import './body.css';
+@import './navbar.css';
+@import './sidebar.css';
+@import './content.css';
+@import './headings.css';
+@import './tables.css';
+@import './cards.css';
+@import './components.css';
+@import './pages.css';
+@import './responsive.css';

@@ -1,0 +1,156 @@
+/* ========== MAIN PAGE CARDS ========== */
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem auto;
+    max-width: 750px;
+    width: 100%;
+    padding: 0 1rem;
+}
+
+.card {
+    display: block;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 10px;
+    padding: 1rem;
+    background: var(--vp-c-bg-soft);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1);
+    border-color: var(--vp-c-brand-1);
+}
+
+.card .card-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.card span[class*="i-lucide"] {
+    font-size: 1.5rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--vp-c-brand-1);
+    flex-shrink: 0;
+}
+
+.card h3 {
+    margin: 0;
+    color: var(--vp-c-brand-1);
+    border-left: none;
+    padding: 0;
+    background: transparent;
+    font-size: 1rem;
+}
+
+.card p {
+    margin: 0;
+    margin-top: 0.15rem;
+    font-size: 0.8rem;
+    color: var(--vp-c-text-2);
+    line-height: 1.3;
+}
+
+/* ========== TERM CARDS ========== */
+
+.term-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    margin: 1.5rem 0;
+}
+
+.term-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 1rem;
+    background: var(--vp-c-bg-soft);
+    border-radius: 12px;
+    border: 1px solid var(--vp-c-divider);
+    transition: all 0.2s ease;
+}
+
+.term-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--vp-c-brand-1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1);
+}
+
+.term-main {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--vp-c-brand-1);
+    font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif;
+    border-bottom: 1px dashed var(--vp-c-divider);
+    padding-bottom: 0.5rem;
+}
+
+.term-title {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--vp-c-text-1);
+    margin-right: 0.5rem;
+}
+
+.term-subtitle {
+    display: inline-block;
+    font-size: 0.85rem;
+    color: var(--vp-c-text-2);
+    font-style: italic;
+}
+
+.term-description {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--vp-c-text-3);
+    margin-top: 0.5rem;
+    line-height: 1.4;
+}
+
+/* ========== ALBUM CARDS ========== */
+
+.album-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.album-card {
+    text-align: center;
+    background: var(--vp-c-bg-soft);
+    border-radius: 12px;
+    padding: 1rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.album-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1);
+}
+
+.album-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .1);
+}
+
+.album-title {
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--vp-c-text-1);
+}

@@ -1,0 +1,82 @@
+/* ========== RESPONSIVE ========== */
+
+@media (min-width: 1440px) {
+    :root {
+        --vp-sidebar-width: 300px !important;
+        --vp-layout-max-width: 100% !important;
+    }
+
+    .VPContent .content-container {
+        max-width: 80% !important;
+    }
+
+    .term-card {
+        padding: 0.875rem;
+    }
+}
+
+/* Desktop */
+@media (min-width: 768px) {
+    .vp-doc table {
+        display: table !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    .VPNavBarTitle .logo {
+        max-width: 80px;
+        margin-left: 24px;
+    }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+    .vp-doc table {
+        display: block !important;
+        width: max-content !important;
+        min-width: 100% !important;
+        overflow-x: auto !important;
+        -webkit-overflow-scrolling: touch !important;
+    }
+
+    .vp-doc {
+        overflow-x: auto !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .VPNavBarTitle .logo {
+        width: 60px !important;
+        top: -5px;
+    }
+
+    .VPNavBarTitle .title {
+        margin-top: 15px;
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .card-grid {
+        grid-template-columns: 1fr;
+        max-width: 400px;
+        gap: 0.75rem;
+        padding: 0 0.75rem;
+    }
+
+    .card {
+        padding: 0.875rem;
+    }
+
+    .card span[class*="i-lucide"] {
+        font-size: 1.25rem;
+    }
+
+    .card h3 {
+        font-size: 0.9rem;
+    }
+
+    .card p {
+        font-size: 0.75rem;
+    }
+}

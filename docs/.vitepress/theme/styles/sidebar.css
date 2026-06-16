@@ -1,0 +1,64 @@
+/* ========== SIDEBAR ========== */
+
+.VPSidebar {
+    background-color: var(--vp-c-bg-soft) !important;
+    margin: 12px 0 15px 15px !important;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
+    margin-right: 10px !important;
+}
+
+/* Sidebar spacing */
+#VPSidebarNav *,
+#VPSidebarNav>.group {
+    border-top: 0 !important;
+    min-height: 0px;
+    padding-top: 0px;
+}
+
+#VPSidebarNav .group .VPSidebarItem>.item>.text {
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+}
+
+/* Tree line */
+#VPSidebarNav .group .items .VPSidebarItem {
+    border-left: 1px solid var(--vp-c-divider) !important;
+    border-radius: 0 !important;
+    margin-left: 0 !important;
+    padding-left: 16px !important;
+    transition: all 0.1s ease-out;
+}
+
+#VPSidebarNav .group .items .VPSidebarItem .items .VPSidebarItem {
+    border-left: none !important;
+    padding-left: 0 !important;
+}
+
+/* Hover states */
+#VPSidebarNav .group .VPSidebarItem>.item>.text.active,
+#VPSidebarNav .group .VPSidebarItem>.item>.text:hover,
+#VPSidebarNav .group .VPSidebarItem>.item .link .text,
+#VPSidebarNav .group .VPSidebarItem>.item .link .text.active {
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+}
+
+/* Caret */
+.VPSidebar .caret-icon {
+    color: var(--vp-c-text-1) !important;
+}
+
+/* Right sidebar */
+.VPDocAsideOutline {
+    background-color: var(--vp-c-bg-soft) !important;
+    padding: 10px;
+    font-family: 'MS Gothic', monospace;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1);
+    margin-right: 8px !important;
+}
+
+.aside-curtain {
+    display: none !important;
+}

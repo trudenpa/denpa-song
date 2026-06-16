@@ -1,0 +1,14 @@
+/* ========== HEADINGS ========== */
+
+h1,
+h2,
+h3 {
+    background: var(--vp-c-bg);
+    border-left: 4px solid var(--vp-c-divider);
+    padding: 8px 12px;
+    border-top: 0 !important;
+}
+
+h2>* {
+    margin-left: 13px;
+}

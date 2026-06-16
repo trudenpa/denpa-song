@@ -1,0 +1,129 @@
+/* ========== SEARCH ========== */
+
+.DocSearch-Button {
+    border-radius: 0px !important;
+    background-color: transparent !important;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
+    transition: all 0.1s ease !important;
+}
+
+.DocSearch-Button:hover {
+    background-color: rgba(212, 181, 196, 0.15) !important;
+    box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.2) !important;
+}
+
+.DocSearch-Button-Placeholder,
+.DocSearch-Button-Key,
+.DocSearch-Button-Keys {
+    background-color: transparent !important;
+}
+
+.DocSearch-Button-Key {
+    border-radius: 0px !important;
+}
+
+/* ========== TIP BOXES ========== */
+
+.custom-block.tip {
+    background-color: var(--vp-c-bg-soft) !important;
+    border-left: 4px solid var(--vp-c-divider) !important;
+    border-radius: 0px !important;
+    border: 1px solid var(--vp-c-divider);
+    box-shadow: none !important;
+    padding: 10px 16px !important;
+    position: relative;
+}
+
+.custom-block.tip::after {
+    content: "";
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 70px;
+    height: 70px;
+    background-image: url('/assets/icon.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.75;
+    pointer-events: none;
+    z-index: 1;
+    border: 1px solid #e6d7e3;
+}
+
+.custom-block.tip {
+    padding-top: 15px !important;
+    padding-right: 90px !important;
+}
+
+/* ========== COLORCODING ========== */
+
+.primary {
+    color: #3ecb76fd !important;
+    background: #42db8721;
+    border-radius: 6px;
+    padding: 0.25rem 0.5rem;
+    display: inline-block;
+}
+
+.primary:hover {
+    color: #36aa64fd !important;
+    text-decoration: underline;
+}
+
+.secondary {
+    color: #b1a537c6 !important;
+    background: #cec03e19;
+    border-radius: 6px;
+    padding: 0.25rem 0.5rem;
+    display: inline-block;
+}
+
+.secondary:hover {
+    color: #948a2dc6 !important;
+}
+
+/* ========== FLOATING PLAYER ========== */
+
+.floating-player {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 320px;
+    color: var(--vp-c-text-2);
+    z-index: 9999;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
+}
+
+.floating-player video {
+    width: 100%;
+    display: block;
+}
+
+.floating-player .header {
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent !important;
+    padding: 6px 10px;
+    font-size: 12px;
+    background: var(--vp-c-divider);
+    opacity: 0.7;
+}
+
+.floating-player button {
+    background: none;
+    border: none;
+    color: var(--vp-c-text-2);
+    cursor: pointer;
+}
+
+.video-link {
+    background: none;
+    border: none;
+    color: var(--vp-c-brand-1);
+    cursor: pointer;
+    padding: 0;
+    font: inherit;
+    text-decoration: underline;
+}
