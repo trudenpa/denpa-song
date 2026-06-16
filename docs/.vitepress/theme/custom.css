@@ -96,11 +96,8 @@ body {
 
 /* ========== CATEGORY: ABOUT ========== */
 
-body.category-about {
-  background:
-    linear-gradient(var(--vp-c-brand-2) 50%, var(--vp-c-bg-soft) 50%);
-  background-size: 1024px 1024px;
-  opacity: 0.8;
+body {
+  opacity: 0.85;
 }
 
 /* ========== CATEGORY: RESOURCES ========== */
@@ -114,6 +111,7 @@ body.category-resources {
     linear-gradient(color-mix(in srgb, var(--vp-c-divider) 20%, transparent) 50%,
       transparent 50%);
   background-size: 64px 64px;
+  opacity: 0.85;
 }
 
 /* ========== CATEGORY: BODIES ========== */
@@ -123,14 +121,14 @@ body.category-bodies {
     linear-gradient(90deg, var(--vp-c-brand-2) 50%, var(--vp-c-bg-soft) 50%),
     linear-gradient(var(--vp-c-brand-2) 50%, var(--vp-c-bg-soft) 50%);
   background-size: 32px 16px;
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 /* ========== CATEGORY: LANGUAGE ========== */
 
 body.category-language {
   background: var(--vp-c-divider);
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 /* ========== CATEGORY: NETWORKING ========== */
@@ -141,7 +139,7 @@ body.category-networking {
     linear-gradient(90deg, var(--vp-c-brand-2) 50%, transparent 50%),
     linear-gradient(var(--vp-c-brand-2) 50%, transparent 50%);
   background-size: 64px 64px;
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 /* ========== CATEGORY: MISC ========== */
@@ -161,6 +159,7 @@ body.category-misc {
       transparent 1px,
       transparent 80px);
   background-size: auto;
+  opacity: 0.85;
 }
 
 /* ========== MASCOT ========== */
@@ -282,7 +281,7 @@ h2>* {
 .VPSidebar {
   background-color: var(--vp-c-bg-soft) !important;
   margin: 12px 0 15px 15px !important;
-  height: calc(100vh - 30px) !important;
+
   box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
 }
 
@@ -332,12 +331,15 @@ h2>* {
 
 /* ========== CURTAIN, LOGO & TITLE TWEAKS ========== */
 
-.curtain,
-.VPTheme .curtain {
-  min-height: 110px !important;
-  height: 110px !important;
-  overflow: visible !important;
-  background-color: var(--vp-c-bg-soft) !important;
+@media (min-width: 769px) {
+
+  .curtain,
+  .VPTheme .curtain {
+    min-height: 110px !important;
+    height: 110px !important;
+    overflow: visible !important;
+    background-color: var(--vp-c-bg-soft) !important;
+  }
 }
 
 .VPNavBarTitle .logo {
@@ -476,36 +478,24 @@ input[type="button"] {
 
 /* =================================================================================================================== */
 
-/* ========== CARDS ========== */
+/* ========== MAIN PAGE CARDS ========== */
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-.card span[class*="i-lucide"] {
-  font-size: 2rem;
-  margin-bottom: 0.75rem;
-  display: inline-block;
-  color: var(--vp-c-brand-1);
-}
-
-.card h3 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-  color: var(--vp-c-brand-1);
-  border-left: none;
-  padding: 0;
-  background: transparent;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem auto;
+  max-width: 750px;
+  /* 3 cards × 180px + gaps ≈ 750px */
+  width: 100%;
+  padding: 0 1rem;
 }
 
 .card {
   display: block;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 12px;
-  padding: 1.25rem;
+  border-radius: 10px;
+  padding: 1rem;
   background: var(--vp-c-bg-soft);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   text-decoration: none;
@@ -519,17 +509,62 @@ input[type="button"] {
   border-color: var(--vp-c-brand-1);
 }
 
-.card h3 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
+.card .card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.card span[class*="i-lucide"] {
+  font-size: 1.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   color: var(--vp-c-brand-1);
+  flex-shrink: 0;
+}
+
+.card h3 {
+  margin: 0;
+  color: var(--vp-c-brand-1);
+  border-left: none;
+  padding: 0;
+  background: transparent;
+  font-size: 1rem;
 }
 
 .card p {
   margin: 0;
-  font-size: 0.85rem;
+  margin-top: 0.15rem;
+  font-size: 0.8rem;
   color: var(--vp-c-text-2);
-  line-height: 1.4;
+  line-height: 1.3;
+}
+
+@media (max-width: 480px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+    max-width: 400px;
+    gap: 0.75rem;
+    padding: 0 0.75rem;
+  }
+
+  .card {
+    padding: 0.875rem;
+  }
+
+  .card span[class*="i-lucide"] {
+    font-size: 1.25rem;
+  }
+
+  .card h3 {
+    font-size: 0.9rem;
+  }
+
+  .card p {
+    font-size: 0.75rem;
+  }
 }
 
 /* ========== TERM CARDS ========== */
@@ -746,27 +781,28 @@ input[type="button"] {
 
 .denpa-title-image {
   display: block;
-  margin: 2rem auto 1rem;
-  max-width: 65%;
+  margin: 0rem auto;
+  max-width: 40%;
   height: auto;
 }
 
 @media (max-width: 768px) {
   .denpa-title-image {
     margin-top: 1rem;
+    max-width: 75%
   }
 }
 
 .denpa-quote {
   text-align: center;
   margin: 1rem 0 1rem;
-  padding: 1.5rem;
+  padding: 0.75rem;
   border-top: 1px solid var(--vp-c-divider);
   border-bottom: 1px solid var(--vp-c-divider);
 }
 
 .denpa-quote p {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   color: var(--vp-c-text-2);
   margin: 0;
 }
@@ -774,7 +810,7 @@ input[type="button"] {
 .quote-source {
   font-size: 0.75rem;
   color: var(--vp-c-text-3);
-  margin-top: 0.5rem !important;
+  margin-top: 0rem !important;
 }
 
 /* =================================================================================================================== */
@@ -836,4 +872,10 @@ input[type="button"] {
 .VPHome {
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
+}
+
+/* ========== REMOVE SEARCH BAR FROM MAIN PAGE ========== */
+
+.home .DocSearch-Button {
+  display: none !important;
 }

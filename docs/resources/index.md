@@ -500,6 +500,7 @@ Last updated: May 6, 2026
 | Song | July 18, 2011 | @fruitCirculation | [YouTube Channel](https://www.youtube.com/@fruitCirculation) |
 | Song | October 12, 2014 | @evanharrison4054 | [YouTube Channel](https://www.youtube.com/@evanharrison4054) |
 | Song | October 19, 2014 | @DenpaCake | [YouTube Channel](https://www.youtube.com/@DenpaCake) |
+| Song | Joined Jun 1, 2015 | @ebi8624 | [YouTube Channel](https://www.youtube.com/@ebi8624/) |
 | Song | July 20, 2017 | @_kyatapira | [YouTube Channel](https://youtube.com/@_kyatapira) |
 | Song | February 9, 2022 | @Burdensmith | [YouTube Channel](https://www.youtube.com/@Burdensmith) |
 | Song | April 1, 2022 | @WavenautArchives | [YouTube Channel](https://www.youtube.com/@WavenautArchives) |

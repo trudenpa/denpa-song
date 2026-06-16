@@ -82,11 +82,13 @@ export default defineConfig({
             collapsed: false,
             link: '/about/description'
           },
+          /*
           {
             text: '<span class="i-lucide:book-search"></span> 🚧 Etymology',
             collapsed: false,
             link: '/about/etymology'
           },
+          */
         ]
       },
       {
@@ -160,6 +162,7 @@ export default defineConfig({
             collapsed: true,
             link: '/language/aesthetic'
           },
+          /*
           {
             text: '<span class="i-lucide:panda"></span> 🚧 Characters',
             collapsed: true,
@@ -175,7 +178,7 @@ export default defineConfig({
             collapsed: true,
             link: '/language/lyrics',
           },
-
+          */
         ]
       },
       {
@@ -195,16 +198,19 @@ export default defineConfig({
         collapsed: false,
         link: '/misc/',
         items: [
+          /*
           {
             text: '<span class="i-lucide:star"></span> 🚧 Iconic Denpa Songs',
             collapsed: true,
             link: '/misc/top',
           },
+          */
           {
             text: '<span class="i-lucide:sprout"></span> Pre 2000s Denpa Songs',
             collapsed: true,
             link: '/misc/pre',
           },
+          /*
           {
             text: '<span class="i-lucide:gamepad-2"></span> 🚧 Video Games',
             collapsed: true,
@@ -220,8 +226,9 @@ export default defineConfig({
             collapsed: true,
             link: '/misc/iceberg',
           },
+          */
           {
-            text: '<span class="i-lucide:graduation-cap"></span> 🚧 Culture Reading',
+            text: '<span class="i-lucide:graduation-cap"></span> Culture Reading',
             collapsed: true,
             link: '/misc/culture',
           },
