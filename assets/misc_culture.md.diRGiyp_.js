@@ -1,0 +1,1 @@
+import{c as e,S as t,j as a}from"./chunks/framework.B1xzPyx4.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"misc/culture.md","filePath":"misc/culture.md","lastUpdated":1781579880000}'),c={name:"misc/culture.md"};function r(s,o,n,i,d,l){return t(),a("div")}const u=e(c,[["render",r]]);export{p as __pageData,u as default};

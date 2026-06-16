@@ -1,0 +1,1 @@
+import{c as a,S as e,j as t}from"./chunks/framework.B1xzPyx4.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"language/amv.md","filePath":"language/amv.md","lastUpdated":1781579880000}'),n={name:"language/amv.md"};function r(s,o,c,m,d,p){return e(),t("div")}const _=a(n,[["render",r]]);export{i as __pageData,_ as default};

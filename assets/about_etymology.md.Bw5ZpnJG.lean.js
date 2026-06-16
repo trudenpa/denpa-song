@@ -1,0 +1,1 @@
+import{c as t,S as e,j as o}from"./chunks/framework.B1xzPyx4.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/etymology.md","filePath":"about/etymology.md","lastUpdated":1781579880000}'),a={name:"about/etymology.md"};function r(s,c,n,m,d,l){return e(),o("div")}const _=t(a,[["render",r]]);export{i as __pageData,_ as default};
