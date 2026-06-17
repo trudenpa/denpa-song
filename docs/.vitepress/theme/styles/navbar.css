@@ -11,6 +11,10 @@
     }
 }
 
+.VPNavBarTitle.has-sidebar .title {
+    border-bottom: none !important;
+}
+
 .curtain,
 .VPTheme .curtain {
     background-color: var(--vp-c-bg-soft) !important;
@@ -63,7 +67,7 @@
 
 .VPNavBarTitle .title {
     margin-top: 20px;
-    margin-left: -4px;
+    margin-left: -20px;
 }
 
 /* ========== MOE BANNER ========== */

@@ -193,7 +193,6 @@ const breadcrumbs = computed(() => {
 /* Text styling */
 .breadcrumb-text {
   display: inline-block;
-  line-height: 1.4;
 }
 
 /* Home icon */
