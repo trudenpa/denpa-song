@@ -50,11 +50,6 @@
     color: var(--vp-c-text-1) !important;
 }
 
-/* Chevron */
-.breadcrumb-separator .i-lucide\:chevron-right {
-    color: var(--vp-c-text-1) !important;
-}
-
 /* Right sidebar */
 .VPDocAsideOutline {
     background-color: var(--vp-c-bg-soft) !important;
@@ -71,4 +66,13 @@
 
 .aside-curtain {
     display: none !important;
+}
+
+/* Remove Backdrop of Mobile Sidebar*/
+@media (max-width: 960px) {
+
+    .VPBackdrop,
+    .VPSidebarBackdrop {
+        background: transparent !important;
+    }
 }

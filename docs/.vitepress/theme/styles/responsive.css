@@ -31,12 +31,13 @@
 
 @media (max-width: 768px) {
     .VPNavBarTitle .logo {
-        width: 60px !important;
-        top: -5px;
+        width: 50px !important;
+        top: 10px;
     }
 
     .VPNavBarTitle .title {
-        margin-top: 15px;
+        margin-top: -2px;
+        margin-left: -5px;
         font-size: 0.9rem;
     }
 }

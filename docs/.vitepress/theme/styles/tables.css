@@ -19,10 +19,30 @@
     background: var(--vp-c-bg-soft);
 }
 
-/* Directory table images */
 .directory-table-wrapper img {
     width: 200px;
     max-width: 200px;
     height: auto;
     border-radius: 0px;
+}
+
+@media (max-width: 768px) {
+    .vp-doc table {
+        font-size: 0.5rem !important;
+        min-width: 320px !important;
+        display: table !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    .vp-doc table th,
+    .vp-doc table td {
+        padding: 2px 4px !important;
+        font-size: 0.5rem !important;
+    }
+
+    .directory-table-wrapper img {
+        width: 30px !important;
+        max-width: 30px !important;
+    }
 }

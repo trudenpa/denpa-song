@@ -13,6 +13,8 @@
 - please note that these entities involve a legal system and are officially registered
 :::
 
+<div class="directory-table-wrapper">
+
 | Name | Type | Groups | Parent |
 |-|-|-|-|
 | [Visual Art's Co., Ltd.](https://visual-arts.jp/){.primary} | Publisher | I've Sound | [Tencent](https://www.tencent.com/){.primary} |
@@ -22,6 +24,7 @@
 | [NBCUniversal ENTERTAINMENT JAPAN, LLC.](https://nbcuni-music.com/fripside/){.primary} | Publisher, Label  | [fripSide](https://nbcuni-music.com/){.primary} | NBCUniversal |
 | [Honey Rush Co., Ltd.](https://honey-rush.com/){.primary} | Talent agency | [Marina Oono](https://honey-rush.com/talent_detail.html?name=ohnomarina){.primary} |
 
+</div>
 
 ## Circles
 
@@ -61,8 +64,6 @@
 :::
 
 <div class="directory-table-wrapper">
-
-Here's your Unit Directory table sorted by **Last Release** from **oldest to newest**:
 
 | Unit | Last Release | Members | Circle / Label | Banner |
 |-|-|-|-|-|
@@ -108,11 +109,15 @@ Here's your Unit Directory table sorted by **Last Release** from **oldest to new
 - please note that these are exception cases where they may not fit the label, circle or unit category despite resembling some sort of group; usually because of the involvement of a legal system, being a separate division of a circle or being a separate alias before the retirement or reformation of the label or circle
 :::
 
+<div class="directory-table-wrapper">
+
 | Group | Last Release | Members | Circle / Label 
 |-|-|-|-|
 | [fripSide NAO project!](https://fripside.net/contents/660785){.primary} | 29 December 2007 | [fripSide](https://fripside.net/contents/660785){.primary}, [NAO](https://fripside.net/contents/660785){.primary} | Warner Music Japan |
 | [I've Sound](https://ive-sound.jp/){.primary} | 28 April 2011 | [KOTOKO](https://www.ivesound.in/artists/kotoko){.secondary}, [Takase Kazuya](https://ive-sound.jp/biography/?artist_id=1){.primary}, [C.G Mix](https://ive-sound.jp/biography/?artist_id=2){.primary}, [...] | Fuctory Records (Visual Art's) |
 | [MOSAIC.TUNE](https://www.akibapop.com/heartsnative3/){.primary} | 11 December 2013 | [ika](https://www.akibapop.com/heartsnative3/){.primary} | [Sham.Studio](https://www.akibapop.com/heartsnative3/){.primary} |
+
+</div>
 
 ## Vocalists
 
@@ -169,7 +174,11 @@ Here's your Unit Directory table sorted by **Last Release** from **oldest to new
 | [Amu Sakurahi](https://sakuracafe.wixsite.com/cocoalover){.primary} | — | - | - | ![](https://static.wixstatic.com/media/67d947_efa482a0f65f42e59fc9128c8ff97c54~mv2.png/v1/fill/w_280,h_56,al_c,lg_1,q_85,enc_avif,quality_auto/67d947_efa482a0f65f42e59fc9128c8ff97c54~mv2.png) |
 | [Iyuri Shiduki](https://lilayuki.wixsite.com/crycrow){.primary} | — | - | - | — |
 
+</div>
+
 ## Composers
+
+<div class="directory-table-wrapper">
 
 ::: tabs
 
@@ -237,14 +246,15 @@ Here's your Unit Directory table sorted by **Last Release** from **oldest to new
 
 :::
 
-
-
+</div>
 
 ## Collabs
 
 ::: tip TIP
 - not exactly falling into any of the category above
 :::
+
+<div class="directory-table-wrapper">
 
 | Collab | Titles |
 |-|-|
