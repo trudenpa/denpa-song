@@ -4,11 +4,12 @@ html,
 body,
 * {
     font-family: 'MS Gothic', 'Courier New', monospace !important;
+    /* line-height: 20px; */
 }
 
 body {
     background: var(--vp-c-brand-2);
-    opacity: 0.8;
+    opacity: 0.85;
 }
 
 body.category-about {
@@ -18,17 +19,17 @@ body.category-about {
 body.category-resources {
     background-color: var(--vp-c-bg-soft);
     background-image:
-        linear-gradient(90deg, color-mix(in srgb, var(--vp-c-divider) 20%, transparent) 50%, transparent 50%),
-        linear-gradient(color-mix(in srgb, var(--vp-c-divider) 20%, transparent) 50%, transparent 50%);
+        linear-gradient(90deg, color-mix(in srgb, var(--vp-c-brand-1) 15%, transparent) 50%, transparent 50%),
+        linear-gradient(color-mix(in srgb, var(--vp-c-brand-1) 15%, transparent) 50%, transparent 50%);
     background-size: 64px 64px;
     opacity: 0.85;
 }
 
 body.category-bodies {
-    background:
-        linear-gradient(90deg, var(--vp-c-brand-2) 50%, var(--vp-c-bg-soft) 50%),
-        linear-gradient(var(--vp-c-brand-2) 50%, var(--vp-c-bg-soft) 50%);
-    background-size: 32px 16px;
+    background: linear-gradient(90deg,
+            color-mix(in srgb, var(--vp-c-brand-1) 15%, transparent) 50%,
+            color-mix(in srgb, var(--vp-c-bg-soft) 15%, transparent) 15%);
+    background-size: 64px 16px;
     opacity: 0.85;
 }
 
@@ -39,8 +40,7 @@ body.category-language {
 
 body.category-networking {
     background-color: var(--vp-c-bg-soft);
-    background-image:
-        linear-gradient(90deg, var(--vp-c-brand-2) 50%, transparent 50%),
+    background-image: linear-gradient(90deg, var(--vp-c-brand-2) 50%, transparent 50%),
         linear-gradient(var(--vp-c-brand-2) 50%, transparent 50%);
     background-size: 64px 64px;
     opacity: 0.85;
@@ -48,8 +48,7 @@ body.category-networking {
 
 body.category-misc {
     background-color: var(--vp-c-bg-soft);
-    background-image:
-        repeating-linear-gradient(0deg,
+    background-image: repeating-linear-gradient(0deg,
             color-mix(in srgb, var(--vp-c-brand-1) 18%, transparent) 0px,
             color-mix(in srgb, var(--vp-c-brand-1) 18%, transparent) 1px,
             transparent 1px, transparent 24px),
@@ -65,9 +64,9 @@ body.category-misc {
 body::after {
     content: "";
     position: fixed;
-    right: 2%;
+    right: 3.5%;
     bottom: 1%;
-    width: 12vw;
+    width: 10vw;
     aspect-ratio: 5 / 8;
     background: url('/assets/ukagaka2.png') no-repeat bottom right;
     background-size: contain;

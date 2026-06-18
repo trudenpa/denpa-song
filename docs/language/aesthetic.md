@@ -1,4 +1,4 @@
-### case 1: internet & technology
+# case 1: internet & technology
 
 <div class="album-grid">
   <div class="album-card">
@@ -57,7 +57,9 @@
   </div>
 </div>
 
-### case 2: magical girls
+---
+
+# case 2: magical girls
 
 <div class="album-grid">
 <div class="album-card">
@@ -96,7 +98,9 @@
   </div>
 </div>
 
-### case 3: animals & animal traits
+---
+
+# case 3: animals & animal traits
 
 <div class="album-grid">
   <div class="album-card">
@@ -155,7 +159,9 @@
   </div>
 </div>
 
-### case 4: delicacy, food items & petite
+---
+
+# case 4: delicacy, food items & petite
 
 <div class="album-grid">
   <div class="album-card">
@@ -244,7 +250,9 @@
   </div>
 </div>
 
-### case 5: queen / princess / royal status
+---
+
+# case 5: queen / princess / royal status
 
 <div class="album-grid">
   <div class="album-card">
@@ -308,7 +316,9 @@
   </div>
 </div>
 
-### case 6: akiba idols
+---
+
+# case 6: akiba idols
 
 <div class="album-grid">
   <div class="album-card">
@@ -427,7 +437,9 @@
   </div>
 </div>
 
-### case 7: jojifuku fashion
+---
+
+# case 7: jojifuku fashion
 
 <div class="album-grid">
   <div class="album-card">

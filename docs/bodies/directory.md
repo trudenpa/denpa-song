@@ -46,6 +46,8 @@
 | [Visual Art's Co., Ltd.](https://visual-arts.jp/){.primary} | I've Sound | [Tencent](https://www.tencent.com/){.primary} |
 | [NBCUniversal ENTERTAINMENT JAPAN, LLC.](https://nbcuni-music.com/fripside/){.primary} | [fripSide](https://nbcuni-music.com/){.primary} | NBCUniversal |
 
+---
+
 # Labels
 
 | Entry | Groups | Parent |
@@ -55,12 +57,16 @@
 | [Warner Music Japan Inc.](https://wmg.jp/fripside/){.primary} | [fripSide](https://wmg.jp/fripside/){.primary} | Warner Music Group |
 | [NBCUniversal ENTERTAINMENT JAPAN, LLC.](https://nbcuni-music.com/fripside/){.primary} | [fripSide](https://nbcuni-music.com/){.primary} | NBCUniversal |
 
+---
+
 # Talent Agencies
 
 | Entry | Groups | Parent |
 |-------|--------|--------|
 | [Honey Rush Co., Ltd.](https://honey-rush.com/){.primary} | [Marina Oono](https://honey-rush.com/talent_detail.html?name=ohnomarina){.primary} | — |
 </div>
+
+---
 
 # Circles
 
@@ -84,6 +90,8 @@
 | Toromiseyasan | Toromi |
 
 </div>
+
+---
 
 #  Units
 
@@ -126,6 +134,8 @@
 
 </div>
 
+---
+
 # Other 
 
 <div class="directory-table-wrapper">
@@ -137,6 +147,8 @@
 | [MOSAIC.TUNE](https://www.akibapop.com/heartsnative3/){.primary} | [ika](https://www.akibapop.com/heartsnative3/){.primary} | [Sham.Studio](https://www.akibapop.com/heartsnative3/){.primary} |
 
 </div>
+
+---
 
 # Vocalists
 
@@ -190,6 +202,8 @@
 | [Iyuri Shiduki](https://lilayuki.wixsite.com/crycrow){.primary} | - | - |
 
 </div>
+
+---
 
 # Composers
 
@@ -262,6 +276,8 @@
 :::
 
 </div>
+
+---
 
 # Collabs
 

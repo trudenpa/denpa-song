@@ -1,10 +1,25 @@
-<script setup>
+<template>
+  <Layout>
+    <template #doc-before>
+      <Breadcrumb/>
+    </template>
+    <template #layout-bottom>
+      <div class="moe-banner">
+        <a href="https://github.com/denpa-song-archive/denpa-song">
+          <img src="/assets/banner.png" />
+        </a>
+      </div>
+      <FloatingPlayer />
+    </template>
+  </Layout>
+</template>
 
+<script setup>
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 import { watch, onMounted } from 'vue'
-import Breadcrumb from './components/Breadcrumb.vue'
-import FloatingPlayer from './components/FloatingPlayer.vue'
+import Breadcrumb from './Breadcrumb.vue'
+import FloatingPlayer from './FloatingPlayer.vue'
 
 const { Layout } = DefaultTheme
 const { page } = useData()
@@ -44,21 +59,4 @@ onMounted(() => {
 watch(() => page.value.relativePath, (path) => {
   setCategoryClass(path)
 })
-
 </script>
-
-<template>
-  <Layout>
-    <template #doc-before>
-      <Breadcrumb/>
-    </template>
-    <template #layout-bottom>
-      <div class="moe-banner">
-        <a href="https://github.com/denpa-song-archive/denpa-song">
-          <img src="/assets/banner.png" />
-        </a>
-      </div>
-      <FloatingPlayer />
-    </template>
-  </Layout>
-</template>

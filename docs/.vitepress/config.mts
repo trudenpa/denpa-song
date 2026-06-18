@@ -51,7 +51,7 @@ export default defineConfig({
         },
         translations: {
           button: {
-            buttonText: 'Search Denpa Archive',
+            buttonText: 'Search',
             buttonAriaLabel: 'Search'
           },
           modal: {

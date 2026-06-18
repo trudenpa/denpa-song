@@ -1,7 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import './styles/index.css'
 import 'uno.css'
-import Layout from './Layout.vue'
+import Layout from './components/Layout.vue'
 import VideoLink from './components/VideoLink.vue'
 import FloatingPlayer from './components/FloatingPlayer.vue'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'

@@ -37,7 +37,7 @@ watch(currentVideo, async (src) => {
   z-index: 9999;
   overflow: hidden;
   box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
-  border: 1px solid #e6d7e3;
+  border: 1px solid var(--vp-c-divider);
   background: var(--vp-c-bg-soft);
 }
 

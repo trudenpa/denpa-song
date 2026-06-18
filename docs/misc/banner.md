@@ -1,6 +1,6 @@
 # Banner Gallery
 
-A collection of all banners from circles, units, vocalists, and composers who have them
+- A collection of all banners from circles, units, vocalists, and composers who have them
 
 <div class="directory-table-wrapper">
 

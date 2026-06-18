@@ -3,17 +3,16 @@
     --vp-layout-max-width: 1490px;
     --vp-c-brand-1: #f5a8c7;
     --vp-c-brand-2: #fff7fa;
-    --vp-c-bg: #fff5fa;
+    --vp-c-bg: #fff5fa9a;
     --vp-c-bg-soft: #fffdfd;
     --vp-c-text-1: #864363;
     --vp-c-text-2: #6e2e4d;
-    --vp-c-divider: #f0d9e5;
+    --vp-c-divider: #cdbac4;
     --vp-code-block-bg: var(--vp-c-bg);
 }
 
 @media (min-width: 1440px) {
     :root {
-        --vp-sidebar-width: 300px !important;
         --vp-layout-max-width: 100% !important;
     }
 }
