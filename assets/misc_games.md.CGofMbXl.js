@@ -1,1 +1,0 @@
-import{c as e,S as t,j as a}from"./chunks/framework.CbmBAXQm.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"misc/games.md","filePath":"misc/games.md","lastUpdated":1781813838000}'),s={name:"misc/games.md"};function c(r,m,o,n,i,d){return t(),a("div")}const f=e(s,[["render",c]]);export{_ as __pageData,f as default};
