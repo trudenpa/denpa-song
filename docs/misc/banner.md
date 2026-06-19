@@ -1,5 +1,3 @@
-# Banner Gallery
-
 - A collection of all banners from circles, units, vocalists, and composers who have them
 
 <div class="directory-table-wrapper">
@@ -58,5 +56,11 @@
 | Vocalist | [Sugar Bunny*](https://web.archive.org/web/20110716234734/http://www.geocities.jp:80/pinkykitty_m/main.html){.primary} | ![](https://web.archive.org/web/20110831210657im_/http://www.geocities.jp/pinkykitty_m/sbbana.jpg) |
 | Composer | [Nekomi Rin](https://www.nekomirin.com/){.primary} | ![](https://www.nekomirin.com/img/header_gon.png) |
 | Composer | [Owata P](https://garunan.com/){.primary} | ![](https://web.archive.org/web/20180603050022im_/http://garunan.com/garunan.png) |
+
+- Banners unrelated to the above
+
+| Name | Banner |
+|------|--------|
+| [Denpa Song Archive](https://github.com/denpa-song-archive/denpa-song) | ![](/assets/banner.png) |
 
 </div>

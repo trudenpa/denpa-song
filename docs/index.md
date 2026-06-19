@@ -61,5 +61,5 @@ description: "Denpa Song Archive to please the heart of otaku!"
 </div>
 
 <div class="denpa-quote">
-  <p class="quote-source">our mission is to spread denpa song through this collaborative project; feel free to join us! <a href="https://discord.gg/BFmCKFvMzA">https://discord.gg/BFmCKFvMzA</a></p>
+  <p class="quote-source">our mission is to spread denpa song through this collaborative project;<br>feel free to join us! <a href="https://discord.gg/BFmCKFvMzA">https://discord.gg/BFmCKFvMzA</a></p>
 </div>

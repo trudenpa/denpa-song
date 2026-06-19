@@ -98,45 +98,45 @@ export default defineConfig({
         items: [
           {
             text: '<span class="i-lucide:file-search-corner"></span> Portals',
-            link: '/resources#portals'
+            link: '/resources/portals'
           },
           {
             text: '<span class="i-lucide:book-marked"></span> Glossary',
-            link: '/resources#glossary'
+            link: '/resources/glossary'
           },
           {
             text: '<span class="i-lucide:book-headphones"></span> Libraries',
-            link: '/resources#libraries'
+            link: '/resources/libraries'
           },
           {
             text: '<span class="i-lucide:file-user"></span> Blogposts',
             collapsed: true,
-            link: '/resources#blogposts'
+            link: '/resources/blogposts'
           },
           {
             text: '<span class="i-lucide:file-heart"></span> Fanpages',
-            link: '/resources#fanpages'
+            link: '/resources/fanpages'
           },
           {
             text: '<span class="i-lucide:messages-square"></span> Interviews',
-            link: '/resources#interviews'
+            link: '/resources/interviews'
           },
           {
             text: '<span class="i-lucide:file-box"></span> Projects',
-            link: '/resources#projects'
+            link: '/resources/projects'
           },
           {
             text: '<span class="i-lucide:download"></span> Downloads',
-            link: '/resources#downloads'
+            link: '/resources/downloads'
           },
           {
             text: '<span class="i-lucide:monitor-play"></span> Streaming',
-            link: '/resources#streaming'
+            link: '/resources/streaming'
           },
           {
             text: '<span class="i-lucide:file-spreadsheet"></span> Boards',
             collapsed: true,
-            link: '/resources#boards'
+            link: '/resources/boards'
           },
         ]
       },

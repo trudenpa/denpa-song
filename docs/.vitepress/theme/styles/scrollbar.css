@@ -2,5 +2,5 @@
 
 * {
     scrollbar-width: thin;
-    scrollbar-color: #decbd5 var(--vp-c-bg-soft);
+    scrollbar-color: color-mix(in srgb, var(--vp-c-divider) 30%, transparent) var(--vp-c-bg-soft);
 }

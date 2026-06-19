@@ -4,11 +4,6 @@
       <Breadcrumb/>
     </template>
     <template #layout-bottom>
-      <div class="moe-banner">
-        <a href="https://github.com/denpa-song-archive/denpa-song">
-          <img src="/assets/banner.png" />
-        </a>
-      </div>
       <FloatingPlayer />
     </template>
   </Layout>
@@ -16,47 +11,136 @@
 
 <script setup>
 import DefaultTheme from 'vitepress/theme'
-import { useData } from 'vitepress'
-import { watch, onMounted } from 'vue'
+import { useData, useRouter } from 'vitepress'
+import { watch, onMounted, onBeforeUnmount, nextTick } from 'vue'
 import Breadcrumb from './Breadcrumb.vue'
 import FloatingPlayer from './FloatingPlayer.vue'
 
 const { Layout } = DefaultTheme
 const { page } = useData()
+const router = useRouter()
+
+let scrollListener = null
+let titleElement = null
+let sidebarElement = null
+let observer = null
 
 function setCategoryClass(path) {
   if (typeof document === 'undefined') return
-  
+
   document.body.classList.remove(
-    'category-about', 
-    'category-resources', 
-    'category-bodies', 
-    'category-language', 
-    'category-networking', 
+    'category-about',
+    'category-resources',
+    'category-bodies',
+    'category-language',
+    'category-networking',
     'category-misc'
   )
-  
-  if (path?.startsWith('about')) {
+
+  const isSubpage = (section) =>
+    path?.startsWith(`${section}/`) &&
+    path !== `${section}/index.md`
+
+  if (isSubpage('about')) {
     document.body.classList.add('category-about')
-  } else if (path?.startsWith('resources')) {
+  } else if (isSubpage('resources')) {
     document.body.classList.add('category-resources')
-  } else if (path?.startsWith('bodies')) {
+  } else if (isSubpage('bodies')) {
     document.body.classList.add('category-bodies')
-  } else if (path?.startsWith('language')) {
+  } else if (isSubpage('language')) {
     document.body.classList.add('category-language')
-  } else if (path?.startsWith('networking')) {
+  } else if (isSubpage('networking')) {
     document.body.classList.add('category-networking')
-  } else if (path?.startsWith('misc')) {
+  } else if (isSubpage('misc')) {
     document.body.classList.add('category-misc')
   }
 }
 
+function handleSidebarScroll() {
+  if (!sidebarElement || !titleElement) return
+  
+  const scrollTop = sidebarElement.scrollTop
+  const fadeStart = 0
+  const fadeEnd = 80
+  
+  const progress = Math.min(1, (scrollTop - fadeStart) / (fadeEnd - fadeStart))
+  const opacity = Math.max(0, 1 - progress)
+  
+  titleElement.style.opacity = opacity
+  titleElement.style.transform = `translateY(${progress * -8}px)`
+}
+
+function setupScrollListener() {
+  if (scrollListener && sidebarElement) {
+    sidebarElement.removeEventListener('scroll', scrollListener)
+    scrollListener = null
+  }
+  
+  sidebarElement = document.querySelector('.VPSidebar')
+  titleElement = document.querySelector('.VPNavBarTitle')
+  
+  if (sidebarElement && titleElement) {
+    scrollListener = () => handleSidebarScroll()
+    sidebarElement.addEventListener('scroll', scrollListener)
+    handleSidebarScroll()
+  }
+}
+
+function resetTitleVisibility() {
+  titleElement = document.querySelector('.VPNavBarTitle')
+  if (titleElement) {
+    titleElement.style.opacity = '1'
+    titleElement.style.transform = 'translateY(0px)'
+  }
+  
+  sidebarElement = document.querySelector('.VPSidebar')
+  if (sidebarElement) {
+    sidebarElement.scrollTop = 0
+  }
+}
+
+watch(() => router.route.path, () => {
+  nextTick(() => {
+    resetTitleVisibility()
+    setupScrollListener()
+    const path = page.value.relativePath
+    setCategoryClass(path)
+  })
+})
+
+watch(() => page.value.relativePath, (newPath) => {
+  nextTick(() => {
+    resetTitleVisibility()
+    setupScrollListener()
+    setCategoryClass(newPath)
+  })
+})
+
 onMounted(() => {
   const path = page.value.relativePath
   setCategoryClass(path)
+  resetTitleVisibility()
+  setupScrollListener()
+
+  observer = new MutationObserver(() => {
+    const sidebar = document.querySelector('.VPSidebar')
+    if (sidebar && sidebar !== sidebarElement) {
+      setupScrollListener()
+    }
+  })
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
+  })
 })
 
-watch(() => page.value.relativePath, (path) => {
-  setCategoryClass(path)
+onBeforeUnmount(() => {
+  if (scrollListener && sidebarElement) {
+    sidebarElement.removeEventListener('scroll', scrollListener)
+    scrollListener = null
+  }
+  if (observer) {
+    observer.disconnect()
+  }
 })
 </script>

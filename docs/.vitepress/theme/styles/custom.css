@@ -13,7 +13,6 @@
 .introduction-card {
     display: block;
     border: 1px solid var(--vp-c-divider);
-    border-radius: 10px;
     padding: 1rem;
     background: var(--vp-c-bg-soft);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -104,7 +103,6 @@
     gap: 0.75rem;
     padding: 1rem;
     background: var(--vp-c-bg-soft);
-    border-radius: 12px;
     border: 1px solid var(--vp-c-divider);
     transition: all 0.2s ease;
     word-wrap: break-word;
@@ -189,14 +187,22 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 1.5rem;
     margin: 1.5rem 0;
+    width: 100%;
+    max-width: 100%;
 }
 
 .album-card {
     text-align: center;
     background: var(--vp-c-bg-soft);
-    border-radius: 12px;
     padding: 1rem;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
 }
 
 .album-card:hover {
@@ -207,8 +213,9 @@
 .album-card img {
     width: 100%;
     height: auto;
-    border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, .1);
+    max-width: 100%;
+    display: block;
 }
 
 .album-title {
@@ -216,56 +223,62 @@
     font-size: 0.85rem;
     font-weight: 500;
     color: var(--vp-c-text-1);
+    width: 100%;
+    word-wrap: break-word;
 }
 
 @media (max-width: 768px) {
     .album-grid {
         grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
         margin: 1rem 0;
-        align-items: stretch;
+        width: 100%;
+        max-width: 100%;
     }
 
     .album-card {
-        padding: 0rem;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: flex-start;
-        max-width: 150px;
+        padding: 0.5rem;
+        max-width: 100%;
+        width: 100%;
     }
 
     .album-card img {
-        width: 160px;
-        height: 160px;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1 / 1;
         object-fit: cover;
         border-radius: 0px;
-        flex-shrink: 0;
+        max-width: 100%;
+        max-height: 180px;
     }
 
     .album-title {
-        font-size: 0.8rem;
-        margin-top: 0.5rem;
+        font-size: 0.75rem;
+        margin-top: 0.4rem;
         text-align: center;
+        word-wrap: break-word;
     }
 }
 
 /* ========== MOE BANNER ========== */
 
+/*
 .moe-banner {
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
     width: 100% !important;
-    margin-top: 0px !important;
+    margin-top: -10px !important;
     margin-bottom: 24px !important;
 }
 
 .moe-banner img {
     height: 40px;
     width: auto;
-    border: 1px solid #e7d4dd;
+    border: 1px solid var(--vp-c-brand-1);
     box-shadow: inset 0 0 0 1px #fff, 2px 2px 0 rgba(0, 0, 0, .06);
 }
+
 
 /* ========== HOME PAGE TITLE & IMAGE ========== */
 
@@ -274,6 +287,11 @@
     margin: 0rem auto;
     max-width: 40%;
     height: auto;
+    filter: hue-rotate(150deg);
+}
+
+.dark .denpa-title-image {
+    filter: hue-rotate(150deg) invert(1) brightness(5) saturate(0);
 }
 
 @media (max-width: 768px) {
@@ -289,6 +307,12 @@
     padding: 0.3rem;
     border-top: 1px solid var(--vp-c-divider);
     border-bottom: 1px solid var(--vp-c-divider);
+    max-width: 720px;
+    margin: 1rem auto;
+}
+
+.denpa-quote .quote-source {
+    line-height: 1.6;
 }
 
 .denpa-quote p {

@@ -5,6 +5,7 @@
     margin: 12px 0 15px 15px !important;
     box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
     margin-right: 10px !important;
+    padding-bottom: 24px !important;
 }
 
 #VPSidebarNav *,
@@ -21,10 +22,10 @@
 }
 
 #VPSidebarNav .group .items .VPSidebarItem {
-    border-left: 1px solid var(--vp-c-divider) !important;
+    border-left: 2px solid color-mix(in srgb, var(--vp-c-divider) 20%, transparent) !important;
     border-radius: 0 !important;
     margin-left: 0 !important;
-    padding-left: 16px !important;
+    padding-left: 14px !important;
     transition: all 0.1s ease-out;
 }
 
@@ -45,6 +46,11 @@
     */
 }
 
+#VPSidebarNav .group .VPSidebarItem:last-child {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
 .VPSidebar .caret-icon {
     color: var(--vp-c-text-1) !important;
 }
@@ -57,6 +63,15 @@
 
 .VPDocAsideOutline li {
     margin-bottom: 0px !important;
+}
+
+.VPDocAsideOutline .outline-marker {
+    background-color: var(--vp-c-divider) !important;
+    width: 1px !important;
+}
+
+.VPDocAsideOutline .content {
+    border-left: 2px solid color-mix(in srgb, var(--vp-c-divider) 20%, transparent);
 }
 
 .outline-link {

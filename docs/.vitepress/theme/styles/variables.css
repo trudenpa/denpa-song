@@ -1,6 +1,8 @@
 :root {
     --vp-sidebar-width: 280px;
     --vp-layout-max-width: 1490px;
+
+    /* pink mode
     --vp-c-brand-1: #f5a8c7;
     --vp-c-brand-2: #fff7fa;
     --vp-c-bg: #fff5fa9a;
@@ -8,6 +10,28 @@
     --vp-c-text-1: #864363;
     --vp-c-text-2: #6e2e4d;
     --vp-c-divider: #cdbac4;
+    --vp-code-block-bg: var(--vp-c-bg);
+    */
+
+    /* green mode */
+    --vp-c-brand-1: #8dd07c;
+    --vp-c-brand-2: #ffffff;
+    --vp-c-bg: #fafff97f;
+    --vp-c-bg-soft: #ffffff;
+    --vp-c-text-1: #426242;
+    --vp-c-text-2: #303a30;
+    --vp-c-divider: #b5ceaf;
+    --vp-code-block-bg: var(--vp-c-bg);
+}
+
+.dark {
+    --vp-c-brand-1: #ffffff;
+    --vp-c-brand-2: #000000;
+    --vp-c-bg: #000000;
+    --vp-c-bg-soft: #000000;
+    --vp-c-text-1: #ffffff;
+    --vp-c-text-2: #ffffff;
+    --vp-c-divider: #ffffff;
     --vp-code-block-bg: var(--vp-c-bg);
 }
 

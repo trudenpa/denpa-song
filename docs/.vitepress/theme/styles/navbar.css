@@ -17,13 +17,16 @@
     backdrop-filter: none !important;
     box-shadow: none !important;
     border-bottom: none !important;
+    gap: 8px !important;
 }
 
 .VPNavBar .divider {
     display: none !important;
 }
 
-.VPNavBar .VPNavBarAppearance {
+/* ========== NAVBARAPPEARANCE ========== */
+
+body:has(.VPHome) .VPNavBarAppearance {
     display: none !important;
 }
 
@@ -39,13 +42,16 @@
     border-bottom: none !important;
 }
 
+body:has(.VPHome) .VPNavBarTitle {
+    display: none !important;
+}
+
 .VPNavBarTitle .logo {
     width: 100px !important;
     height: auto !important;
     position: relative;
     top: 12px;
     margin-right: 12px;
-    filter: drop-shadow(0 0 10px rgba(255, 255, 255, .9)) drop-shadow(2px 2px 0 rgba(0, 0, 0, .08));
     transition: transform 0.15s ease;
     pointer-events: none !important;
 }
@@ -70,6 +76,7 @@
 .curtain,
 .VPTheme .curtain {
     background-color: var(--vp-c-bg-soft) !important;
+    visibility: hidden;
 }
 
 @media (min-width: 769px) {
