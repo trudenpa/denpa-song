@@ -146,9 +146,49 @@ export default defineConfig({
         link: '/bodies/',
         items: [
           {
-            text: '<span class="i-lucide:user-round-search"></span> Directory',
+            text: '<span class="i-lucide:building-2"></span> Publishers',
             collapsed: true,
-            link: '/bodies/directory',
+            link: '/bodies/publishers',
+          },
+          {
+            text: '<span class="i-lucide:disc-3"></span> Labels',
+            collapsed: true,
+            link: '/bodies/labels',
+          },
+          {
+            text: '<span class="i-lucide:briefcase-business"></span> Talent Agencies',
+            collapsed: true,
+            link: '/bodies/agencies',
+          },
+          {
+            text: '<span class="i-lucide:house-heart"></span> Circles',
+            collapsed: true,
+            link: '/bodies/circles',
+          },
+          {
+            text: '<span class="i-lucide:users"></span> Units',
+            collapsed: true,
+            link: '/bodies/units',
+          },
+          {
+            text: '<span class="i-lucide:circle-question-mark"></span> Other',
+            collapsed: true,
+            link: '/bodies/other',
+          },
+          {
+            text: '<span class="i-lucide:mic-vocal"></span> Vocalists',
+            collapsed: true,
+            link: '/bodies/vocalists',
+          },
+          {
+            text: '<span class="i-lucide:keyboard-music"></span> Composers',
+            collapsed: true,
+            link: '/bodies/composers',
+          },
+          {
+            text: '<span class="i-lucide:heart-handshake"></span> Collabs',
+            collapsed: true,
+            link: '/bodies/collabs',
           },
         ]
       },

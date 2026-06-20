@@ -36,31 +36,43 @@ body:has(.VPHome) .VPNavBarAppearance {
     display: none !important;
 }
 
-/* ========== VPNAVBAR TITLE ========== */
-
 .VPNavBarTitle.has-sidebar .title {
     border-bottom: none !important;
 }
 
-body:has(.VPHome) .VPNavBarTitle {
-    display: none !important;
+.VPNavBarTitle {
+    opacity: 0;
+    transition: opacity 0.15s ease, transform 0.15s ease;
+    will-change: opacity, transform;
+    margin-top: 20px
+}
+
+.VPNavBarTitle.visible {
+    opacity: 1;
+    transform: translateY(0px);
+}
+
+.VPNavBarTitle.faded {
+    opacity: 0;
+    transform: translateY(-8px);
 }
 
 .VPNavBarTitle .logo {
     width: 100px !important;
     height: auto !important;
     position: relative;
-    top: 12px;
+    top: 15px;
     margin-right: 12px;
     transition: transform 0.15s ease;
     pointer-events: none !important;
-}
-
-.VPNavBarTitle .title {
-    margin-top: 20px;
     margin-left: 0px;
     max-width: 70px;
 }
+
+body:has(.VPHome) .VPNavBarTitle {
+    display: none !important;
+}
+
 
 @media (max-width: 768px) {
     .VPNavBarTitle .title {

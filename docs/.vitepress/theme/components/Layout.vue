@@ -24,6 +24,7 @@ let scrollListener = null
 let titleElement = null
 let sidebarElement = null
 let observer = null
+let savedScrollPosition = 0
 
 function setCategoryClass(path) {
   if (typeof document === 'undefined') return
@@ -70,6 +71,36 @@ function handleSidebarScroll() {
   titleElement.style.transform = `translateY(${progress * -8}px)`
 }
 
+function saveSidebarPosition() {
+  const sidebar = document.querySelector('.VPSidebar')
+  if (sidebar) {
+    savedScrollPosition = sidebar.scrollTop
+    sessionStorage.setItem('sidebar-scroll', savedScrollPosition.toString())
+  }
+}
+
+function restoreSidebarPosition() {
+  const saved = sessionStorage.getItem('sidebar-scroll')
+  if (!saved) return
+  
+  const restore = () => {
+    const sidebar = document.querySelector('.VPSidebar')
+    if (sidebar) {
+      sidebar.scrollTop = Number(saved)
+    }
+  }
+  
+  requestAnimationFrame(() => {
+    restore()
+    setTimeout(() => {
+      const sidebar = document.querySelector('.VPSidebar')
+      if (sidebar && sidebar.scrollTop !== Number(saved)) {
+        sidebar.scrollTop = Number(saved)
+      }
+    }, 100)
+  })
+}
+
 function setupScrollListener() {
   if (scrollListener && sidebarElement) {
     sidebarElement.removeEventListener('scroll', scrollListener)
@@ -80,7 +111,10 @@ function setupScrollListener() {
   titleElement = document.querySelector('.VPNavBarTitle')
   
   if (sidebarElement && titleElement) {
-    scrollListener = () => handleSidebarScroll()
+    scrollListener = () => {
+      handleSidebarScroll()
+      saveSidebarPosition()
+    }
     sidebarElement.addEventListener('scroll', scrollListener)
     handleSidebarScroll()
   }
@@ -100,27 +134,39 @@ function resetTitleVisibility() {
 }
 
 watch(() => router.route.path, () => {
+  saveSidebarPosition()
+  
   nextTick(() => {
     resetTitleVisibility()
     setupScrollListener()
     const path = page.value.relativePath
     setCategoryClass(path)
+    restoreSidebarPosition()
   })
 })
 
 watch(() => page.value.relativePath, (newPath) => {
+  saveSidebarPosition()
+  
   nextTick(() => {
     resetTitleVisibility()
     setupScrollListener()
     setCategoryClass(newPath)
+    restoreSidebarPosition()
   })
 })
 
 onMounted(() => {
+  if (typeof window !== 'undefined') {
+    window.history.scrollRestoration = 'manual'
+  }
+  
   const path = page.value.relativePath
   setCategoryClass(path)
   resetTitleVisibility()
   setupScrollListener()
+  
+  restoreSidebarPosition()
 
   observer = new MutationObserver(() => {
     const sidebar = document.querySelector('.VPSidebar')

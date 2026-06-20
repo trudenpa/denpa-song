@@ -28,10 +28,18 @@ export default defineConfig({
 
     'i-lucide:user',
     'i-lucide:user-round-search',
+    'i-lucide:building-2',
+    'i-lucide:disc-3',
+    'i-lucide:briefcase-business',
+    'i-lucide:house-heart',
+    'i-lucide:users',
+    'i-lucide:circle-question-mark',
+    'i-lucide:mic-vocal',
+    'i-lucide:keyboard-music',
+    'i-lucide:heart-handshake',
 
     // 'i-lucide:user-star',
     // 'i-lucide:user-pen',
-    // 'i-lucide:users',
     // 'i-lucide:user-cog',
 
     'i-lucide:globe',
