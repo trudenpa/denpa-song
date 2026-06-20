@@ -78,7 +78,7 @@ export default defineConfig({
             link: '/about/glossary'
           },
           {
-            text: '<span class="i-lucide:book-open-text"></span> 🚧 Description',
+            text: '<span class="i-lucide:letter-text"></span> 🚧 Description',
             collapsed: false,
             link: '/about/description'
           },
@@ -89,55 +89,6 @@ export default defineConfig({
             link: '/about/etymology'
           },
           */
-        ]
-      },
-      {
-        text: '<span class="i-lucide:book-text"></span> Resources',
-        collapsed: false,
-        link: '/resources/',
-        items: [
-          {
-            text: '<span class="i-lucide:file-search-corner"></span> Portals',
-            link: '/resources/portals'
-          },
-          {
-            text: '<span class="i-lucide:book-marked"></span> Glossary',
-            link: '/resources/glossary'
-          },
-          {
-            text: '<span class="i-lucide:book-headphones"></span> Libraries',
-            link: '/resources/libraries'
-          },
-          {
-            text: '<span class="i-lucide:file-user"></span> Blogposts',
-            collapsed: true,
-            link: '/resources/blogposts'
-          },
-          {
-            text: '<span class="i-lucide:file-heart"></span> Fanpages',
-            link: '/resources/fanpages'
-          },
-          {
-            text: '<span class="i-lucide:messages-square"></span> Interviews',
-            link: '/resources/interviews'
-          },
-          {
-            text: '<span class="i-lucide:file-box"></span> Projects',
-            link: '/resources/projects'
-          },
-          {
-            text: '<span class="i-lucide:download"></span> Downloads',
-            link: '/resources/downloads'
-          },
-          {
-            text: '<span class="i-lucide:monitor-play"></span> Streaming',
-            link: '/resources/streaming'
-          },
-          {
-            text: '<span class="i-lucide:file-spreadsheet"></span> Boards',
-            collapsed: true,
-            link: '/resources/boards'
-          },
         ]
       },
       {
@@ -193,43 +144,58 @@ export default defineConfig({
         ]
       },
       {
-        text: '<span class="i-lucide:drama"></span> Language',
+        text: '<span class="i-lucide:book-open"></span> Reference',
         collapsed: false,
-        link: '/language/',
+        link: '/reference/',
         items: [
           {
-            text: '<span class="i-lucide:sparkles"></span> Aesthetic',
-            collapsed: true,
-            link: '/language/aesthetic'
-          },
-          /*
-          {
-            text: '<span class="i-lucide:panda"></span> 🚧 Characters',
-            collapsed: true,
-            link: '/language/characters',
+            text: '<span class="i-lucide:file-search-corner"></span> Portals',
+            link: '/reference/portals'
           },
           {
-            text: '<span class="i-lucide:paintbrush"></span> 🚧 Animated Music Video',
-            collapsed: true,
-            link: '/language/amv',
+            text: '<span class="i-lucide:book-marked"></span> Glossary',
+            link: '/reference/glossary'
           },
           {
-            text: '<span class="i-lucide:list-music"></span> 🚧 Lyrics',
-            collapsed: true,
-            link: '/language/lyrics',
+            text: '<span class="i-lucide:book-headphones"></span> Libraries',
+            link: '/reference/libraries'
           },
-          */
+          {
+            text: '<span class="i-lucide:file-user"></span> Blogposts',
+            collapsed: true,
+            link: '/reference/blogposts'
+          },
+          {
+            text: '<span class="i-lucide:file-heart"></span> Fanpages',
+            link: '/reference/fanpages'
+          },
+          {
+            text: '<span class="i-lucide:messages-square"></span> Interviews',
+            link: '/reference/interviews'
+          },
+          {
+            text: '<span class="i-lucide:file-box"></span> Projects',
+            link: '/reference/projects'
+          },
+          {
+            text: '<span class="i-lucide:file-spreadsheet"></span> Boards',
+            collapsed: true,
+            link: '/reference/boards'
+          },
         ]
       },
       {
-        text: '<span class="i-lucide:globe"></span> Networking',
+        text: '<span class="i-lucide:headphones"></span> Media',
         collapsed: false,
-        link: '/networking/',
+        link: '/media/',
         items: [
           {
-            text: '<span class="i-lucide:house-heart"></span> Communities',
-            collapsed: true,
-            link: '/networking/communities',
+            text: '<span class="i-lucide:download"></span> Downloads',
+            link: '/media/downloads'
+          },
+          {
+            text: '<span class="i-lucide:monitor-play"></span> Streaming',
+            link: '/media/streaming'
           },
         ]
       },
@@ -238,6 +204,11 @@ export default defineConfig({
         collapsed: false,
         link: '/misc/',
         items: [
+          {
+            text: '<span class="i-lucide:sparkles"></span> Aesthetic',
+            collapsed: true,
+            link: '/misc/aesthetic'
+          },
           /*
           {
             text: '<span class="i-lucide:star"></span> 🚧 Iconic Denpa Songs',
@@ -276,6 +247,16 @@ export default defineConfig({
             text: '<span class="i-lucide:graduation-cap"></span> Culture Reading',
             collapsed: true,
             link: '/misc/culture',
+          },
+          {
+            text: '<span class="i-lucide:venetian-mask"></span> VTuber',
+            collapsed: true,
+            link: '/misc/vtuber',
+          },
+          {
+            text: '<span class="i-lucide:house-heart"></span> Communities',
+            collapsed: true,
+            link: '/misc/communities',
           },
         ]
       },

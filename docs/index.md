@@ -16,12 +16,20 @@ description: "Denpa Song Archive to please the heart of otaku!"
   <p>What is denpa? Glossary, etymology, and cultural context</p>
 </a>
 
-<a href="/resources/" class="introduction-card">
+<a href="/reference/" class="introduction-card">
   <div class="introduction-card-header">
-    <span class="i-lucide:book-text"></span>
-    <h3>Resources</h3>
+    <span class="i-lucide:book-open"></span>
+    <h3>Reference</h3>
   </div>
-  <p>Blogposts, guides, libraries, downloads, and more</p>
+  <p>Blogposts, guides, libraries, and more</p>
+</a>
+
+<a href="/media/" class="introduction-card">
+  <div class="introduction-card-header">
+    <span class="i-lucide:headphones"></span>
+    <h3>Media</h3>
+  </div>
+  <p>Streaming, downloads, and more</p>
 </a>
 
 <a href="/bodies/" class="introduction-card">
@@ -32,28 +40,12 @@ description: "Denpa Song Archive to please the heart of otaku!"
   <p>Artists, collaborators, circles, units and more</p>
 </a>
 
-<a href="/language/" class="introduction-card">
-  <div class="introduction-card-header">
-    <span class="i-lucide:drama"></span>
-    <h3>Language</h3>
-  </div>
-  <p>Aesthetic, characters, AMVs & lyrical analysis</p>
-</a>
-
-<a href="/networking/" class="introduction-card">
-  <div class="introduction-card-header">
-    <span class="i-lucide:globe"></span>
-    <h3>Networking</h3>
-  </div>
-  <p>Communities on the web</p>
-</a>
-
 <a href="/misc/" class="introduction-card">
   <div class="introduction-card-header">
     <span class="i-lucide:beer"></span>
     <h3>Misc</h3>
   </div>
-  <p>Iconic songs, proto denpa, iceberg charts & culture reading</p>
+  <p>Aesthettic analysis, culture reading, communities, and more</p>
 </a>
 
 </div>

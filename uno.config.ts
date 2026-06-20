@@ -12,8 +12,9 @@ export default defineConfig({
     'i-lucide:book-open-text',
     'i-lucide:book-search',
     'i-lucide:sparkles',
+    'i-lucide:letter-text',
 
-    'i-lucide:book-text',
+    'i-lucide:book-open',
     'i-lucide:file-user',
     'i-lucide:file-heart',
     'i-lucide:book-heart',
@@ -25,6 +26,8 @@ export default defineConfig({
     'i-lucide:file-search-corner',
     'i-lucide:file-box',
     'i-lucide:messages-square',
+
+    'i-lucide:headphones',
 
     'i-lucide:user',
     'i-lucide:user-round-search',
@@ -59,7 +62,8 @@ export default defineConfig({
     'i-lucide:rabbit',
     'i-lucide:bar-chart-big',
     'i-lucide:graduation-cap',
-    'i-lucide:image'
+    'i-lucide:image',
+    'i-lucide:venetian-mask'
   ],
   presets: [
     presetUno(),

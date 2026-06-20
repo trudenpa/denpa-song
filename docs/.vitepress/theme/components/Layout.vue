@@ -38,7 +38,8 @@ function setCategoryClass(path) {
 
   document.body.classList.remove(
     'category-about',
-    'category-resources',
+    'category-reference',
+    'category-media',
     'category-bodies',
     'category-language',
     'category-networking',
@@ -51,8 +52,8 @@ function setCategoryClass(path) {
 
   if (isSubpage('about')) {
     document.body.classList.add('category-about')
-  } else if (isSubpage('resources')) {
-    document.body.classList.add('category-resources')
+  } else if (isSubpage('reference')) {
+    document.body.classList.add('category-reference')
   } else if (isSubpage('bodies')) {
     document.body.classList.add('category-bodies')
   } else if (isSubpage('language')) {
