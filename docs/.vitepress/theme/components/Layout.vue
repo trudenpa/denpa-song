@@ -1,12 +1,18 @@
 <template>
   <Layout>
+
     <template #doc-before>
-      <Breadcrumb/>
+      <Breadcrumb />
     </template>
+
     <template #layout-bottom>
       <FloatingPlayer />
     </template>
+
   </Layout>
+
+  <Mascot />
+
 </template>
 
 <script setup>
@@ -15,6 +21,7 @@ import { useData, useRouter } from 'vitepress'
 import { watch, onMounted, onBeforeUnmount, nextTick } from 'vue'
 import Breadcrumb from './Breadcrumb.vue'
 import FloatingPlayer from './FloatingPlayer.vue'
+import Mascot from './Mascot.vue'
 
 const { Layout } = DefaultTheme
 const { page } = useData()

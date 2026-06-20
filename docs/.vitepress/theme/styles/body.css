@@ -54,23 +54,3 @@ body {
             transparent 1px, transparent 80px);
 }
 */
-
-/* ========== BOTTOM RIGHT MASCOT ========== */
-
-body::after {
-    content: "";
-    position: fixed;
-    right: 3.5%;
-    bottom: 1%;
-    width: 10vw;
-    aspect-ratio: 5 / 8;
-    background: url('/assets/ukagaka2.png') no-repeat bottom right;
-    background-size: contain;
-    pointer-events: none;
-    opacity: 0.9;
-    z-index: 999;
-}
-
-body:has(.VPHome)::after {
-    display: none;
-}
