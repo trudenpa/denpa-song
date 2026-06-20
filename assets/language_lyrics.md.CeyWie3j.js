@@ -1,0 +1,1 @@
+import{c as e,S as a,j as t}from"./chunks/framework.CbmBAXQm.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"language/lyrics.md","filePath":"language/lyrics.md","lastUpdated":1781919705000}'),r={name:"language/lyrics.md"};function s(c,n,o,l,i,d){return a(),t("div")}const m=e(r,[["render",s]]);export{_ as __pageData,m as default};
