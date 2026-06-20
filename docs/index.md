@@ -4,9 +4,7 @@ title: "Denpa Song Archive"
 description: "Denpa Song Archive to please the heart of otaku!"
 ---
 
-<div class="denpa-hero">
-  <img src="/assets/title.png" alt="Denpa Song" class="denpa-title-image">
-</div>
+<h1 class="denpa-home-title">denpa song</h1>
 
 <div class="introduction-card-grid">
 
