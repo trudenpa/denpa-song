@@ -3,6 +3,7 @@
 #### Vocalists
 
 - please note that vocalists are usually the frontmen/singers and in some cases might also take the role of the arranger or composer
+- some akiba-idols fall under this list and will likely see its separate table soon
 
 </Collapsible>
 
@@ -16,7 +17,7 @@
 | [Motoi Kotaka](https://web.archive.org/web/20170905005107/http://www.ceramicrecords.net/artist/motoikotaka){.primary} | - | - |
 | [2-Dimension](https://web.archive.org/web/20251114050426/http://2-dimension.net/){.primary} | - | - |
 | [Ichigo Kinoshita](https://jinseisoudan15.wixsite.com/radio){.primary} | - | - |
-| [Chiwakuraya / Saori Sakura](https://www.sakurasaori.net/){.primary} | [Twitter](https://x.com/Saori_Sakura){.secondary} | - |
+| [Saori Sakura](https://www.sakurasaori.net/){.primary} | [Twitter](https://x.com/Saori_Sakura){.secondary} | - |
 | Hotarutan | [Twitter](https://x.com/hotarutan_?lang=ja){.secondary} | - |
 | Ruriru Denpabu | - | - |
 | [mandi](https://happymappy.tumblr.com/about){.primary} | [Twitter](https://x.com/mandimandi){.secondary} [BlueSky](https://bsky.app/profile/mandimappy.bsky.social){.secondary} | - |
@@ -54,3 +55,12 @@
 | Cherry | [Twitter](https://x.com/rnilky__cherry){.secondary} | - |
 | [Amu Sakurahi](https://sakuracafe.wixsite.com/cocoalover){.primary} | - | - |
 | [Iyuri Shiduki](https://lilayuki.wixsite.com/crycrow){.primary} | - | - |
+| Chu☆ | - | - |
+| [Himeko Sakuragawa](https://ameblo.jp/sakuragawa-himeko/){.secondary} | [Twitter](https://twitter.com/himeme_){.secondary} [Instagram](https://www.instagram.com/sakuragawahimeko) | - |
+| Hoshimiya Gumi | [Twitter](https://twitter.com/Hoshimiya_Gumi){.secondary} [Youtube](https://www.youtube.com/c/gumichannel){.secondary} | Hoshimiya Gumi |
+| Kanae Matsumoto | [Twitter](https://x.com/MatsumotoKanae){.secondary} | - |
+| [Korone Pochi](https://vpochpoch.wixsite.com/pochikorone/profile){.primary} | [Twitter](https://x.com/virtualcat_poch){.secondary} [Youtube](https://www.youtube.com/channel/UCv2byPgvl60Mh1vQBnXuksA){.secondary} | Korone Pochi |
+| Mayuko Takano | - | - |
+| [Miyu Inoue](http://ayaifactory.com/miyu.html){.primary} | - | - |
+| Pinky Pop Hepburn | [Twitter](https://x.com/PinkyPopHepburn){.secondary} [Youtube](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA){.secondary} | Pinky Pop Hepburn |
+| Tomoe Tamiyasu | - | - |

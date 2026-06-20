@@ -42,6 +42,11 @@
   </div>
 
   <div class="album-card">
+    <img src="https://cdn.sonemic.net/i/600/s/dcb2d43ea4098c7dbaf8260e3a15da63/7349081/%E6%B0%91%E5%AE%89%E3%81%A8%E3%82%82%E3%81%88-tomoe-tamiyasu-smilebit-%E2%80%93-technorider-tammy-2--Cover-Art.jpg" alt="test!">
+    <p class="album-title">Tomoe Tamiyasu - TECHNO RIDER TAMMY 2 (2007)</p>
+  </div>
+
+  <div class="album-card">
     <img src="https://cdn.sonemic.net/i/600/s/598b69092c81790121133dcd3d59ba1e/5697848/%E3%81%A8%E3%82%8D%E7%BE%8E-toromi-t_drive-Cover-Art.jpg" alt="test!">
     <p class="album-title">Toromi - T:Drive (2007)</p>
   </div>
@@ -71,6 +76,12 @@
     <img src="https://cdn.sonemic.net/i/600/s/b59fed427a10b97ef04464681f7d308b/5236094/mosaic_wav-magical-hacker-%E2%98%86-%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E3%83%AA%E3%82%B9%E3%82%AF-Cover-Art.jpg" alt="test">
     <p class="album-title">MOSAIC.WAV - Magical Hacker ☆ くるくるリスク (2004)</p>
   </div>
+
+  <div class="album-card">
+    <img src="https://cdn.sonemic.net/i/600/s/29007ec6312071a6db5269f643782ff2/12332135/fice-%E6%8E%A5%E5%90%BB%EF%BD%9E%E3%82%89%E3%81%B6%E3%82%89%E3%81%B6%E3%81%A1%E3%82%85%EF%BD%9E-%E5%87%BA%E5%8B%95%EF%BC%81%EF%BD%9E%E5%BE%85%E3%81%A3%E3%81%A6%E3%81%A6%E2%98%86%EF%BD%82%EF%BD%81%EF%BD%82%EF%BD%99%EF%BD%9E-Cover-Art.jpg" alt="test">
+    <p class="album-title">FICE - 接吻～らぶらぶちゅ～ / 出動！～待ってて☆ＢＡＢＹ～ (2005)</p>
+  </div>
+
   
   <div class="album-card">
     <img src="https://cdn.sonemic.net/i/600/s/043572e65e899497da2f4bfee23560fd/13387401/%E8%99%B9%E5%8E%9F%E3%81%84%E3%82%93%E3%81%8F-%E9%BB%92%E5%A8%81%E3%81%99%E3%81%BF-and-%E7%99%BD%E9%B3%A5%E3%81%82%E3%82%8A%E3%81%99-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%81%9F%E3%82%93-Cover-Art.jpg" alt="test">
@@ -485,6 +496,11 @@
   <div class="album-card">
     <img src="https://cdn.sonemic.net/i/600/s/f046980408dcb8000f091d56bf611052/7893478/%E7%A7%98%E5%AF%86%E7%B5%90%E7%A4%BE%E3%81%AF%E3%81%BF%E3%81%AF%E3%81%BF-himitsukessha-hami-hami-%E3%81%8A%E5%89%8D%E3%82%89%E3%81%93%E2%86%92%E3%82%86%E2%86%92%E3%81%AE%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%A3%EF%BC%81%EF%BC%9F_omaera-ko%E2%86%92yu%E2%86%92no-suki-nan-darou-Cover-Art.jpg" alt="test">
     <p class="album-title">Himitsukessha Hami Hami - Omaera Ko→Yu→No Suki nan Darou!? (2017)</p>
+  </div>
+
+  <div class="album-card">
+    <img src="https://cdn.sonemic.net/i/600/s/940264bd1444ce9a7544e36e11ed6aa3/8917418/%E6%98%9F%E5%AE%AE%E3%81%90%E3%81%BF-gumi-hoshimiya-%E3%81%90%E3%81%BF%E3%81%90%E3%81%BF%E3%81%90%E3%83%BC-Cover-Art.jpg" alt="test">
+    <p class="album-title">星宮ぐみ - ぐみぐみぐー! (2019)</p>
   </div>
 
   <div class="album-card">

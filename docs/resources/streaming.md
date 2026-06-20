@@ -36,6 +36,7 @@
 | Song | July 20, 2017 | @_kyatapira | [YouTube Channel](https://youtube.com/@_kyatapira) |
 | Song | February 9, 2022 | @Burdensmith | [YouTube Channel](https://www.youtube.com/@Burdensmith) |
 | Song | April 1, 2022 | @WavenautArchives | [YouTube Channel](https://www.youtube.com/@WavenautArchives) |
+| Song | May 31, 2024 | @mikang21 | [YouTube Channel](https://www.youtube.com/@mikang21/) |
 
 == Channels (erogesong edition)
 
@@ -93,6 +94,8 @@
 
 == Playlists & Compilations
 
+#### Genre specific
+
 | Publish Date | Author | Playlist Name | Videos | Link |
 |--------------|--------|---------------|--------|------|
 | - | @umm_rm | denpa | 1,437 | [Watch](https://youtube.com/playlist?list=PLfw-EBbN7Dw0ZS2-O_jZJqh2iAgEoQY5W) |
@@ -118,6 +121,12 @@
 | - | @DeltaEpsilon7787 | Denpa Cult: Denparty 6 | 1,659 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UUZut8g5hlg7roIgJ80olxY) |
 | - | @DeltaEpsilon7787 | Denpa Cult: the Denparty | 3,992 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UWc0erHv9Lnkfw6J5BlOFYT) |
 | - | @DeltaEpsilon7787 | [Broken Playlist] Denparty | 3,370 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UW3V5Xysnxn9s9yITECJWhc) |
+
+#### Artist specific
+
+| Publish Date | Author | Playlist Name | Videos | Link |
+|--------------|--------|---------------|--------|------|
+| - | @NA-gg1bf | 井上みゆ | 70 | [Watch](https://youtube.com/playlist?list=PL0t5QngbXVBueUfNQdS8Jr5X0qQzZFIZU&si=jMIx5SUp80-DCLXr) |
 
 :::
 

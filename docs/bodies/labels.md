@@ -14,3 +14,4 @@
 | [Lantis Co., Ltd.](https://lantis.jp/){.primary} | Under17 | [Bandai Namco Music Live](https://www.bandainamcomusiclive.co.jp/){.primary} |
 | [Warner Music Japan Inc.](https://wmg.jp/fripside/){.primary} | [fripSide](https://wmg.jp/fripside/){.primary} | Warner Music Group |
 | [NBCUniversal ENTERTAINMENT JAPAN, LLC.](https://nbcuni-music.com/fripside/){.primary} | [fripSide](https://nbcuni-music.com/){.primary} | NBCUniversal |
+| [Salvation By Faith Records](https://www.sbfr.info/index.php) | Aoiroid | - |

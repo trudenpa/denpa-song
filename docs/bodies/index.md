@@ -8,6 +8,14 @@
 - please note that all entries are listed as romaji
 - please note that many circles, units or artists remain niche and likely were not noticed by westerners, so their works may have never been ripped, seeded, officially released digitally, archived, tagged or translated
 
+- following tropes are present yet not categorized
+  - akiba-idol
+  - utaite
+  - touhou doujin circle
+  - vocaloP
+  - virtual singer
+  - (up-and-coming)
+
 </Collapsible>
 
 <div class="introduction-card-grid">

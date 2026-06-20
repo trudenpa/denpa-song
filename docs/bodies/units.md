@@ -17,6 +17,7 @@
 | [ULTRA-PRISM](https://ultra-prism.com/){.primary} | Usagi Tukimiya, Masaya Koike | - |
 | [Funta](https://funta.net/index.html){.primary} | [UCO](https://funta.net/funta/Funta.html){.primary}, [Hideki Yoshimi](https://funta.net/funta/Funta.html){.primary} | - |
 | [Shaking Pink](http://www.orc2000.com/spi/spink.html){.primary} | Nanahira, Momobako, Koko | Poyahchio |
+| FICE | e-nne, hyou | - |
 | Enjoy | Ichigo Kinoshita, Hotaru, Kokone, [...] | - |
 | [team dmp☆](https://web.archive.org/web/20180822073648/http://dmp.babymilk.jp/){.primary} | Kaori Aihara, Momobako | - |
 | [ave;new](https://www.avenew.jp/){.primary} | [Saori Sakura](https://www.sakurasaori.net/?cat=18){.secondary}, [a.k.a.dRESS](https://www.avenew.jp/?page_id=3836){.primary}, [...] | - |
@@ -43,3 +44,6 @@
 | [MOSAIC.WAV](https://www.mosaicwav.com/){.primary} | miiko, Susumu Kayamori | Sham.Studio |
 | [Dempagumi.inc](https://dempagumi.tokyo/){.primary} | Ayane Fujisaki, Hina Takasaki, Mirin Furukawa, Ria Kobato, Rin Kaname, Risa Aizawa, Rito Amasawa | - |
 | [fanC DreaM](https://fancdream.bandcamp.com/){.secondary} | marumoko, Dena | - |
+| Aoiroid | AOiRO_Manbow, Roid | Salvation By Faith Records |
+| Myu~Toron | Miyu Inoue, Toromi | - |
+| unMOMENT | Mayumi Sindou, Shun Okazaki | - |

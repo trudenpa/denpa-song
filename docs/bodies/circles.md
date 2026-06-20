@@ -26,3 +26,9 @@
 | [Confetto](https://nanahira.jp/){.primary} | [Nanahira](https://nanahira.jp/#about){.primary} |
 | [Sham.Studio](https://www.sham.jp/studio/){.primary} | [MOSAIC.WAV](https://www.sham.jp/studio/faq.shtml){.primary}, [ika](https://www.sham.jp/studio/faq.shtml){.primary} |
 | Toromiseyasan | Toromi |
+| Fragarach | Akane Fujieda, Morrigan |
+| MEGA Yacchu Cannon | Yuhki Nakanome, sui, mitsu, yamako, Shindo Yomoku |
+| Triumphal Records | ~~Yogurt, Hida, K.Nakayama, yan, Hyakutaro Tsukumo, Mahiru Sonoda, H.Nakayama, Nakayama Sister Princess, fan~~ (unsure) |
+| PNGN4 | Azusa Enoki, Mariya Ise, Yoshino Nanjo, Rina Hidaka |
+| Ukagaka Ongakubu | Yuel Y., Mizki_F, TeK, illes.fg, maco.fj, millefeui.fg, Deeps, MZK, Hiro.S, [...] |
+| Stein Gar Coo | KicK, megane, taiyaki |
