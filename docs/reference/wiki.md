@@ -1,6 +1,13 @@
-# Glossary
+# Wiki
 
 ::: tabs
+
+== EN
+
+| Category | Publish Date | Author | Entry |
+|----------|--------------|--------|-------|
+| Song | — | [...] | [Akibapop (Aesthetics Wiki)](https://aesthetics.fandom.com/wiki/Akibapop) |
+| Overall | — | [...] | [Denpa (Aesthetics Wiki)](https://aesthetics.fandom.com/wiki/Denpa) |
 
 == JP
 

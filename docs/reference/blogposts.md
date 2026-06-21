@@ -3,16 +3,6 @@
 
 ::: tabs
 
-== JP
-
-| Category | Publish Date | Author | Entry |
-|----------|--------------|--------|-------|
-| Song | February 17, 2004 | ｷｭﾝ脳 | [きゅんてんスタッフのためのガイドライン](https://web.archive.org/web/20040612164711/http://kt40.web.poporo.net/aboutdempa.html) |
-| Song | February 28, 2016 | yohine | [電波ソングの真面目な考察　さしみちゃんもあるよ](https://web.archive.org/web/20210226094913/http://innocent-key.com/wordpress/?p=4973) |
-| Song | October 5, 2020 | sakana38 | [「電波ソング」と「萌えソング」の関係](https://sakana38.hatenablog.com/entry/2020/10/05/021637) |
-| Song | May 9 2026 | かに1すけ | [きしめんは電波ソングじゃないだろ！！！！！！！！ ](https://note.com/kanysuke/n/n0251f501ac3f) |
-| Song | - | takeshi0406 | [1990年代以前の電波ソングの世界](https://web.archive.org/web/20200922192044/https://matome.naver.jp/odai/2157234118535188501?page=1) |
-
 == EN
 
 | Category | Publish Date | Author | Entry |
@@ -33,5 +23,15 @@
 | Overall | March 7, 2026 | IronicLark | [Still In Love – Denpa as a genre, and the desire for acceptance](https://umadacchidensetsu.com/still-in-love-denpa-as-a-genre-and-the-desire-for-acceptance/) |
 | Song | — | — | [A blog for denpa music](https://denpa-meruhen.tumblr.com/) |
 | Overall | - | ChosenX_ | [Denpa-Kei: How a Mass Murder influenced Japanese Pop Culture (Tokyo Gas Attack post hold-over/build up post #1)](https://watchpeopledie.tv/h/social/post/303554/denpakei-how-a-mass-murder-influenced) |
+
+== JP
+
+| Category | Publish Date | Author | Entry |
+|----------|--------------|--------|-------|
+| Song | February 17, 2004 | ｷｭﾝ脳 | [きゅんてんスタッフのためのガイドライン](https://web.archive.org/web/20040612164711/http://kt40.web.poporo.net/aboutdempa.html) |
+| Song | February 28, 2016 | yohine | [電波ソングの真面目な考察　さしみちゃんもあるよ](https://web.archive.org/web/20210226094913/http://innocent-key.com/wordpress/?p=4973) |
+| Song | October 5, 2020 | sakana38 | [「電波ソング」と「萌えソング」の関係](https://sakana38.hatenablog.com/entry/2020/10/05/021637) |
+| Song | May 9 2026 | かに1すけ | [きしめんは電波ソングじゃないだろ！！！！！！！！ ](https://note.com/kanysuke/n/n0251f501ac3f) |
+| Song | - | takeshi0406 | [1990年代以前の電波ソングの世界](https://web.archive.org/web/20200922192044/https://matome.naver.jp/odai/2157234118535188501?page=1) |
 
 :::

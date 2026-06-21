@@ -2,6 +2,130 @@
 
 :::: tabs
 
+=== EN
+
+::: tabs
+
+== Project "Guidelines on Collecting Funny Denpa Songs" (Translated)
+
+| Category | Publish Date | Author | Entry |
+|----------|--------------|--------|-------|
+| Song | August 7, 2003 | RIR6 | [Guidebook of funny dempa song](https://web.archive.org/web/20030822084329/http://world2ch.net/dempa/) |
+
+== Series /jp/ Denpa Song Thread
+
+| Thread ID | Date | Thread Title | Link |
+|-----------|------|--------------|------|
+| 8357621 | Jan 5, 2012 | Denpa Thread | [View](https://warosu.org/jp/thread/8357621) |
+| 8492595 | Jan 30, 2012 | Denpa song thread  | [View](https://warosu.org/jp/thread/8492595) |
+| 8575751 | Feb 16, 2012 | Denpa Thread | [View](https://warosu.org/jp/thread/8575751) |
+| 9020262 | May 16, 2012 | Denpa thread | [View](https://warosu.org/jp/thread/9020262) |
+| 9089919 | May 30, 2012 | - | [View](https://warosu.org/jp/thread/9089919) |
+| 9180896 | Jun 15, 2012 | - | [View](https://warosu.org/jp/thread/9180896) |
+| 9289405 | Jul 3, 2012 | Denpa thread | [View](https://warosu.org/jp/thread/9289405) |
+| 9758370 | Sep 21, 2012 | Denpa song thread #10 | [View](https://warosu.org/jp/thread/9758370) |
+| 9905433 | Oct 19, 2012 | Denpa thread★ | [View](https://warosu.org/jp/thread/9905433) |
+| 10107735 | Nov 23, 2012 | DenpaのThread | [View](https://warosu.org/jp/thread/10107735) |
+| 10449077 | Feb 4, 2013 | - | [View](https://warosu.org/jp/thread/10449077) |
+| 10505645 | Feb 19, 2013 | Denpa Song Thread #14 | [View](https://warosu.org/jp/thread/10505645) |
+| 10649723 | Mar 23, 2013 | Denpa Song Thread #15 | [View](https://warosu.org/jp/thread/10649723) |
+| 10818314 | Apr 29, 2013 | Denpa Thread! | [View](https://warosu.org/jp/thread/10818314) |
+| 10900651 | May 17, 2013 | Denpa Thread | [View](https://warosu.org/jp/thread/10900651) |
+| 10959278 | May 28, 2013 | Denpa Thread | [View](https://warosu.org/jp/thread/10959278) |
+| 11160228 | Jul 9, 2013 | Denpa song Thread | [View](https://warosu.org/jp/thread/11160228) |
+| 11321877 | Aug 18, 2013 | Denpa song Thread | [View](https://warosu.org/jp/thread/11321877) |
+| 11422589 | Sep 16, 2013 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11422589) |
+| 11478593 | Sep 30, 2013 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11478593) |
+| 11627158 | Nov 16, 2013 | Denpa | [View](https://warosu.org/jp/thread/11627158) |
+| 11698346 | Dec 11, 2013 | Denpa | [View](https://warosu.org/jp/thread/11698346) |
+| 11772963 | Jan 3, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11772963) |
+| 11848041 | Jan 28, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11848041) |
+| 11884149 | Feb 9, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11884149) |
+| 11946148 | Mar 5, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11946148) |
+| 12020878 | Apr 5, 2014 | Denpa thread | [View](https://warosu.org/jp/thread/12020878) |
+| 12111895 | May 11, 2014 | - | [View](https://warosu.org/jp/thread/12111895) |
+| 12268452 | Jul 14, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/12268452) |
+| 12464667 | Sep 8, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/12464667) |
+| 12643485 | Oct 30, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/12643485) |
+| 12747839 | Nov 30, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/12747839) |
+| 12931572 | Jan 20, 2015 | Denpa Thread | [View](https://warosu.org/jp/thread/12931572) |
+| 13069553 | Feb 18, 2015 | Denpa song Thread | [View](https://warosu.org/jp/thread/13069553) |
+| 13295054 | Apr 9, 2015 | denpa song thread | [View](https://warosu.org/jp/thread/13295054) |
+| 13334504 | Apr 17, 2015 | Denpa song thread Anonymous | [View](https://warosu.org/jp/thread/13334504) |
+| 13383237 | Apr 26, 2015 | denpa thread? | [View](https://warosu.org/jp/thread/13383237) |
+| 13511971 | May 19, 2015 | denpa/moe song thread | [View](https://warosu.org/jp/thread/13511971) |
+| 13972254 | Aug 20, 2015 | Denpa song thread | [View](https://warosu.org/jp/thread/13972254) |
+| 14268336 | Oct 25, 2015 | Denpa song | [View](https://warosu.org/jp/thread/14268336) |
+| 14567446 | Jan 3, 2016 | Denpa song | [View](https://warosu.org/jp/thread/14567446) |
+| 14729856 | Feb 8, 2016 | Denpa song | [View](https://warosu.org/jp/thread/14729856) |
+| 15000430 | Mar 30, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15000430) |
+| 15124351 | Apr 24, 2016 | Denpa song | [View](https://warosu.org/jp/thread/15124351) |
+| 15337762 | Jun 3, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15337762) |
+| 15497755 | Jul 6, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15497755) |
+| 15627609 | Aug 3, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15627609) |
+| 15745770 | Aug 26, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15745770) |
+| 15916858 | Oct 3, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15916858) |
+| 16022136 | Oct 26, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/16022136) |
+| 16174313 | Nov 28, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/16174313) |
+| 16351798 | Jan 2, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/16351798) |
+| 16496245 | Jan 31, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/16496245) |
+| 16700613 | Mar 12, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/16700613) |
+| 16952588 | May 2, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/16952588) |
+| 17161613 | Jun 11, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/17161613) |
+| 17396721 | Jul 29, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/17396721) |
+| 17698328 | Sep 29, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/17698328) |
+| 17950973 | Nov 26, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/17950973) |
+| 18333984 | Feb 2, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/18333984) |
+| 18386138 | Feb 11, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/18386138) |
+| 18488608 | Feb 25, 2018 | - | [View](https://warosu.org/jp/thread/18488608) |
+| 18621678 | Mar 16, 2018 | Eternal Edition Denpa Thread | [View](https://warosu.org/jp/thread/18621678) |
+| 18696908 | Mar 26, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/18696908) |
+| 18754850 | Apr 4, 2018 | The death of denpa edition | [View](https://warosu.org/jp/thread/18754850) |
+| 18850460 | Apr 18, 2018 | denpa thread | [View](https://warosu.org/jp/thread/18850460) |
+| 18986834 | May 9, 2018 | - | [View](https://warosu.org/jp/thread/18986834) |
+| 19244568 | Jun 17, 2018 | Keeping the thread alive is muri edition  Denpa Thread | [View](https://warosu.org/jp/thread/19244568) |
+| 19696590 | Aug 19, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/19696590) |
+| 19759540 | Aug 27, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/19759540) |
+| 20077746 | Oct 16, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/20077746) |
+| 20482459 | Dec 25, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/20482459) |
+| 20831127 | Feb 14, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/20831127) |
+| 21147763 | Apr 10, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/21147763) |
+| 21471646 | Jun 5, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/21471646) |
+| 21839628 | Aug 8, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/21839628) |
+| 22041531 | Sep 9, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/22041531) |
+| 22329630 | Oct 28, 2019 | Denpa Thread: Hallowe'en Edition | [View](https://warosu.org/jp/thread/22329630) |
+| 22636716 | Dec 23, 2019 | Denpa Thread: Christmas Edition. | [View](https://warosu.org/jp/thread/22636716) |
+| 22958637 | Feb 10, 2020 | DENPA THREAD DENPA THREAD DENPA THREAD | [View](https://warosu.org/jp/thread/22958637) |
+| 24121305 | Jun 6, 2020 | Denpa Thread. | [View](https://warosu.org/jp/thread/24121305) |
+| 26185636 | Sep 12, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/26185636) |
+| 28221316 | Oct 25, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/28221316) |
+| 30464104 | Dec 9, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/30464104) |
+| 30911970 | Dec 19, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/30911970) |
+| 31297468 | Dec 26, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/31297468) |
+| 32068136 | Jan 11, 2021 | - | [View](https://warosu.org/jp/thread/32068136) |
+| 32884504 | Jan 29, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/32884504) |
+| 32939056 | Jan 31, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/32939056) |
+| 33366119 | Feb 23, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/33366119) |
+| 33929418 | Mar 26, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/33929418) |
+| 34123624 | Apr 6, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/34123624) |
+| 34245637 | Apr 14, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/34245637) |
+| 34366668 | Apr 21, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/34366668) |
+| 35287144 | Jun 18, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/35287144) |
+| 36186880 | Aug 21, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/36186880) |
+| 36935310 | Oct 12, 2021 | Denpa thread | [View](https://warosu.org/jp/thread/36935310) |
+| 39267948 | Apr 3, 2022 | Denpa thread | [View](https://warosu.org/jp/thread/39267948) |
+| 39620951 | Apr 29, 2022 | Denpa thread/電波スレ | [View](https://warosu.org/jp/thread/39620951) |
+| 40470384 | Jul 10, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/40470384) |
+| 41667741 | Nov 4, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/41667741) |
+| 41775012 | Nov 15, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/41775012) |
+| 42013082 | Dec 10, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/42013082) |
+| 42083601 | Dec 18, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/42083601) |
+| 46944381 | May 28, 2024 | Denpa Music Thread | [View](https://warosu.org/jp/thread/46944381) |
+| 49020483 | Mar 3, 2025 | Denpa Thread | [View](https://warosu.org/jp/thread/49020483) |
+| 50838130 | Apr 9, 2026 | denpa-song thread | [View](https://warosu.org/jp/thread/50838130) |
+
+:::
+
 === JP
 
 ::: tabs
@@ -155,130 +279,12 @@ iteration #31 couldn't be retrieved and are therefore missing
 | - | 05/11/17 | ｷｭﾝｷｭﾝ!ヽ(ﾟ∀ﾟ)人(ﾟ∀ﾟ)ﾉｷｭﾙﾙﾝ! ★32nd Stage★  | [View](https://web.archive.org/web/20100702195935/http://etc3.2ch.net/test/read.cgi/denpa/1132223967/) |
 | - | 06/06/20 | ｷｭﾝｷｭﾝ!ヽ(ﾟ∀ﾟ)人(ﾟ∀ﾟ)ﾉｷｭﾙﾙﾝ! ★33th Stage★  | [View](https://web.archive.org/web/20071116135906/http://etc6.2ch.net/test/read.cgi/denpa/1150814532/l50x) |
 
-::: 
-
-=== EN
-
-::: tabs
-
-== Project "Guidelines on Collecting Funny Denpa Songs" (Translated)
+== dempa_bot
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
-| Song | August 7, 2003 | RIR6 | [Guidebook of funny dempa song](https://web.archive.org/web/20030822084329/http://world2ch.net/dempa/) |
+| Song | September, 2010 | takeshi0406 | [@dempa_bot (Twitter)](https://x.com/dempa_bot) |
 
-== Series /jp/ Denpa Song Thread
-
-| Thread ID | Date | Thread Title | Link |
-|-----------|------|--------------|------|
-| 8357621 | Jan 5, 2012 | Denpa Thread | [View](https://warosu.org/jp/thread/8357621) |
-| 8492595 | Jan 30, 2012 | Denpa song thread  | [View](https://warosu.org/jp/thread/8492595) |
-| 8575751 | Feb 16, 2012 | Denpa Thread | [View](https://warosu.org/jp/thread/8575751) |
-| 9020262 | May 16, 2012 | Denpa thread | [View](https://warosu.org/jp/thread/9020262) |
-| 9089919 | May 30, 2012 | - | [View](https://warosu.org/jp/thread/9089919) |
-| 9180896 | Jun 15, 2012 | - | [View](https://warosu.org/jp/thread/9180896) |
-| 9289405 | Jul 3, 2012 | Denpa thread | [View](https://warosu.org/jp/thread/9289405) |
-| 9758370 | Sep 21, 2012 | Denpa song thread #10 | [View](https://warosu.org/jp/thread/9758370) |
-| 9905433 | Oct 19, 2012 | Denpa thread★ | [View](https://warosu.org/jp/thread/9905433) |
-| 10107735 | Nov 23, 2012 | DenpaのThread | [View](https://warosu.org/jp/thread/10107735) |
-| 10449077 | Feb 4, 2013 | - | [View](https://warosu.org/jp/thread/10449077) |
-| 10505645 | Feb 19, 2013 | Denpa Song Thread #14 | [View](https://warosu.org/jp/thread/10505645) |
-| 10649723 | Mar 23, 2013 | Denpa Song Thread #15 | [View](https://warosu.org/jp/thread/10649723) |
-| 10818314 | Apr 29, 2013 | Denpa Thread! | [View](https://warosu.org/jp/thread/10818314) |
-| 10900651 | May 17, 2013 | Denpa Thread | [View](https://warosu.org/jp/thread/10900651) |
-| 10959278 | May 28, 2013 | Denpa Thread | [View](https://warosu.org/jp/thread/10959278) |
-| 11160228 | Jul 9, 2013 | Denpa song Thread | [View](https://warosu.org/jp/thread/11160228) |
-| 11321877 | Aug 18, 2013 | Denpa song Thread | [View](https://warosu.org/jp/thread/11321877) |
-| 11422589 | Sep 16, 2013 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11422589) |
-| 11478593 | Sep 30, 2013 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11478593) |
-| 11627158 | Nov 16, 2013 | Denpa | [View](https://warosu.org/jp/thread/11627158) |
-| 11698346 | Dec 11, 2013 | Denpa | [View](https://warosu.org/jp/thread/11698346) |
-| 11772963 | Jan 3, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11772963) |
-| 11848041 | Jan 28, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11848041) |
-| 11884149 | Feb 9, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11884149) |
-| 11946148 | Mar 5, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/11946148) |
-| 12020878 | Apr 5, 2014 | Denpa thread | [View](https://warosu.org/jp/thread/12020878) |
-| 12111895 | May 11, 2014 | - | [View](https://warosu.org/jp/thread/12111895) |
-| 12268452 | Jul 14, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/12268452) |
-| 12464667 | Sep 8, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/12464667) |
-| 12643485 | Oct 30, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/12643485) |
-| 12747839 | Nov 30, 2014 | Denpa Song Thread | [View](https://warosu.org/jp/thread/12747839) |
-| 12931572 | Jan 20, 2015 | Denpa Thread | [View](https://warosu.org/jp/thread/12931572) |
-| 13069553 | Feb 18, 2015 | Denpa song Thread | [View](https://warosu.org/jp/thread/13069553) |
-| 13295054 | Apr 9, 2015 | denpa song thread | [View](https://warosu.org/jp/thread/13295054) |
-| 13334504 | Apr 17, 2015 | Denpa song thread Anonymous | [View](https://warosu.org/jp/thread/13334504) |
-| 13383237 | Apr 26, 2015 | denpa thread? | [View](https://warosu.org/jp/thread/13383237) |
-| 13511971 | May 19, 2015 | denpa/moe song thread | [View](https://warosu.org/jp/thread/13511971) |
-| 13972254 | Aug 20, 2015 | Denpa song thread | [View](https://warosu.org/jp/thread/13972254) |
-| 14268336 | Oct 25, 2015 | Denpa song | [View](https://warosu.org/jp/thread/14268336) |
-| 14567446 | Jan 3, 2016 | Denpa song | [View](https://warosu.org/jp/thread/14567446) |
-| 14729856 | Feb 8, 2016 | Denpa song | [View](https://warosu.org/jp/thread/14729856) |
-| 15000430 | Mar 30, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15000430) |
-| 15124351 | Apr 24, 2016 | Denpa song | [View](https://warosu.org/jp/thread/15124351) |
-| 15337762 | Jun 3, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15337762) |
-| 15497755 | Jul 6, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15497755) |
-| 15627609 | Aug 3, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15627609) |
-| 15745770 | Aug 26, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15745770) |
-| 15916858 | Oct 3, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/15916858) |
-| 16022136 | Oct 26, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/16022136) |
-| 16174313 | Nov 28, 2016 | Denpa Thread | [View](https://warosu.org/jp/thread/16174313) |
-| 16351798 | Jan 2, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/16351798) |
-| 16496245 | Jan 31, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/16496245) |
-| 16700613 | Mar 12, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/16700613) |
-| 16952588 | May 2, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/16952588) |
-| 17161613 | Jun 11, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/17161613) |
-| 17396721 | Jul 29, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/17396721) |
-| 17698328 | Sep 29, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/17698328) |
-| 17950973 | Nov 26, 2017 | Denpa Thread | [View](https://warosu.org/jp/thread/17950973) |
-| 18333984 | Feb 2, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/18333984) |
-| 18386138 | Feb 11, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/18386138) |
-| 18488608 | Feb 25, 2018 | - | [View](https://warosu.org/jp/thread/18488608) |
-| 18621678 | Mar 16, 2018 | Eternal Edition Denpa Thread | [View](https://warosu.org/jp/thread/18621678) |
-| 18696908 | Mar 26, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/18696908) |
-| 18754850 | Apr 4, 2018 | The death of denpa edition | [View](https://warosu.org/jp/thread/18754850) |
-| 18850460 | Apr 18, 2018 | denpa thread | [View](https://warosu.org/jp/thread/18850460) |
-| 18986834 | May 9, 2018 | - | [View](https://warosu.org/jp/thread/18986834) |
-| 19244568 | Jun 17, 2018 | Keeping the thread alive is muri edition  Denpa Thread | [View](https://warosu.org/jp/thread/19244568) |
-| 19696590 | Aug 19, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/19696590) |
-| 19759540 | Aug 27, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/19759540) |
-| 20077746 | Oct 16, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/20077746) |
-| 20482459 | Dec 25, 2018 | Denpa Thread | [View](https://warosu.org/jp/thread/20482459) |
-| 20831127 | Feb 14, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/20831127) |
-| 21147763 | Apr 10, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/21147763) |
-| 21471646 | Jun 5, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/21471646) |
-| 21839628 | Aug 8, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/21839628) |
-| 22041531 | Sep 9, 2019 | Denpa Thread | [View](https://warosu.org/jp/thread/22041531) |
-| 22329630 | Oct 28, 2019 | Denpa Thread: Hallowe'en Edition | [View](https://warosu.org/jp/thread/22329630) |
-| 22636716 | Dec 23, 2019 | Denpa Thread: Christmas Edition. | [View](https://warosu.org/jp/thread/22636716) |
-| 22958637 | Feb 10, 2020 | DENPA THREAD DENPA THREAD DENPA THREAD | [View](https://warosu.org/jp/thread/22958637) |
-| 24121305 | Jun 6, 2020 | Denpa Thread. | [View](https://warosu.org/jp/thread/24121305) |
-| 26185636 | Sep 12, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/26185636) |
-| 28221316 | Oct 25, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/28221316) |
-| 30464104 | Dec 9, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/30464104) |
-| 30911970 | Dec 19, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/30911970) |
-| 31297468 | Dec 26, 2020 | Denpa Thread | [View](https://warosu.org/jp/thread/31297468) |
-| 32068136 | Jan 11, 2021 | - | [View](https://warosu.org/jp/thread/32068136) |
-| 32884504 | Jan 29, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/32884504) |
-| 32939056 | Jan 31, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/32939056) |
-| 33366119 | Feb 23, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/33366119) |
-| 33929418 | Mar 26, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/33929418) |
-| 34123624 | Apr 6, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/34123624) |
-| 34245637 | Apr 14, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/34245637) |
-| 34366668 | Apr 21, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/34366668) |
-| 35287144 | Jun 18, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/35287144) |
-| 36186880 | Aug 21, 2021 | Denpa Thread | [View](https://warosu.org/jp/thread/36186880) |
-| 36935310 | Oct 12, 2021 | Denpa thread | [View](https://warosu.org/jp/thread/36935310) |
-| 39267948 | Apr 3, 2022 | Denpa thread | [View](https://warosu.org/jp/thread/39267948) |
-| 39620951 | Apr 29, 2022 | Denpa thread/電波スレ | [View](https://warosu.org/jp/thread/39620951) |
-| 40470384 | Jul 10, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/40470384) |
-| 41667741 | Nov 4, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/41667741) |
-| 41775012 | Nov 15, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/41775012) |
-| 42013082 | Dec 10, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/42013082) |
-| 42083601 | Dec 18, 2022 | Denpa Thread | [View](https://warosu.org/jp/thread/42083601) |
-| 46944381 | May 28, 2024 | Denpa Music Thread | [View](https://warosu.org/jp/thread/46944381) |
-| 49020483 | Mar 3, 2025 | Denpa Thread | [View](https://warosu.org/jp/thread/49020483) |
-| 50838130 | Apr 9, 2026 | denpa-song thread | [View](https://warosu.org/jp/thread/50838130) |
-
-:::
+::: 
 
 ::::

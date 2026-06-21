@@ -6,9 +6,7 @@
 
 </Collapsible>
 
-:::: tabs
-
-=== Youtube
+#### Youtube
 
 ::: tabs
 
@@ -130,13 +128,13 @@
 
 :::
 
-=== Twitter
+#### Spotify
 
-| Joined | Author | Profile Link |
-|-|-|-|
-| September 2010 | @dempa_bot | [Twitter Profile](https://x.com/dempa_bot) |
+| Author | Playlist |
+|-|-|
+| Shamrock | [DENPA EPHEMERA / 電波ソング庫](https://open.spotify.com/playlist/1JhRAqciyC6lkZImt1zHWh?si=807c17172cd54fec) |
 
-=== SoundCloud
+#### SoundCloud
 
 | Joined | Author | Profile Link |
 |-|-|-|
@@ -144,11 +142,3 @@
 | - | nyowa | [SoundCloud Profile](https://soundcloud.com/nyowa) |
 | - | vn-usagi | [SoundCloud Profile](https://soundcloud.com/vn-usagi) |
 | - | denpatunes | [SoundCloud Profile](https://soundcloud.com/denpatunes) |
-
-=== Spotify
-
-| Author | Playlist |
-|-|-|
-| Shamrock | [DENPA EPHEMERA / 電波ソング庫](https://open.spotify.com/playlist/1JhRAqciyC6lkZImt1zHWh?si=807c17172cd54fec) |
-
-::::

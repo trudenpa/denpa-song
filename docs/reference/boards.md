@@ -1,40 +1,14 @@
 # Boards
 
+#### Entire Boards
+
+| Category | Publish Date | Author | Entry |
+|----------|--------------|--------|-------|
+| Overall | June, 2004 | - | [2ch.net 電波お花畑](https://web.archive.org/web/20040630082012/http://etc3.2ch.net/denpa/) |
+
+#### Threads
+
 :::: tabs
-
-=== JP
-
-::: tabs
-
-== 2ch.net
-
-| ID | Date | Thread Title | Link |
-|----|------|--------------|------|
-| - | 03/11/26 | 【電波】　電波ちゃんねる 9　【発信中】 | [View](https://web.archive.org/web/20041217092353/http://etc3.2ch.net/test/read.cgi/denpa/1069854819/l50) |
-
-== 5ch.net (formerly 2ch.net)
-
-| ID | Date | Thread Title | Link |
-|----|------|--------------|------|
-| 1qRFxfr90 | 07/10/29 | 電波ソング布教(マニア向け) | [View](https://web.archive.org/web/20200426144722/https://kohada.5ch.net/test/read.cgi/asong/1193589610/l50) |
-
-
-== 2ch.net mirror
-
-| ID | Date | Thread Title | Link |
-|----|------|--------------|------|
-| GWwGlYCA | 03/05/23 | 煮込み味噌ナスに激しくﾜﾗﾀ奴等のガイドライン | [View](https://web.archive.org/web/20030824104918/http://page.freett.com/dat2ch06/030531-1053643849.html) |
-| Lc+MzXPM | 03/05/27 | 煮込み味噌茄子2（仮） | [View](https://web.archive.org/web/20030824104936/http://page.freett.com/dat2ch09/030628-1053964768.html) |
-| 0oI0Efof | 03/05/28 | 煮込味噌茄子 隔離スレ | [View](https://web.archive.org/web/20030824091303/http://page.freett.com/dat2ch07/030620-1054050280.html) |
-| 2SLpJZIU | 08/12/05 | 2008年電波ソング大賞 | [View](https://web.archive.org/web/20100614213034/http://www.unkar.org/read/dubai.2ch.net/news/1228483464) |
-
-== wavesong (custom website)
-
-| ID | Date | Thread Title | Link |
-|----|------|--------------|------|
-| uBR9Xpjlnk | 05/12/31 | ２００５年電波ソング大賞を振り返って | [View](https://web.archive.org/web/20210922233418/http://wavesong.web.fc2.com/wavesong2005.html) |
-
-:::
 
 === EN
 
@@ -138,6 +112,46 @@
 | Thread ID | Date | Link |
 |-----------|------|------|
 | 37608 | November 15, 2011 | [View](https://web.archive.org/web/20210518035658/http://bunbunmaru.com:80/wakaba/general/res/37608.html) |
+
+== reddit
+
+| Subreddit | Link |
+|-----------|------|
+| r/denpa | [View](https://www.reddit.com/r/denpa/) |
+
+:::
+
+=== JP
+
+::: tabs
+
+== 2ch.net
+
+| ID | Date | Thread Title | Link |
+|----|------|--------------|------|
+| - | 03/11/26 | 【電波】　電波ちゃんねる 9　【発信中】 | [View](https://web.archive.org/web/20041217092353/http://etc3.2ch.net/test/read.cgi/denpa/1069854819/l50) |
+
+== 5ch.net (formerly 2ch.net)
+
+| ID | Date | Thread Title | Link |
+|----|------|--------------|------|
+| 1qRFxfr90 | 07/10/29 | 電波ソング布教(マニア向け) | [View](https://web.archive.org/web/20200426144722/https://kohada.5ch.net/test/read.cgi/asong/1193589610/l50) |
+
+
+== 2ch.net mirror
+
+| ID | Date | Thread Title | Link |
+|----|------|--------------|------|
+| GWwGlYCA | 03/05/23 | 煮込み味噌ナスに激しくﾜﾗﾀ奴等のガイドライン | [View](https://web.archive.org/web/20030824104918/http://page.freett.com/dat2ch06/030531-1053643849.html) |
+| Lc+MzXPM | 03/05/27 | 煮込み味噌茄子2（仮） | [View](https://web.archive.org/web/20030824104936/http://page.freett.com/dat2ch09/030628-1053964768.html) |
+| 0oI0Efof | 03/05/28 | 煮込味噌茄子 隔離スレ | [View](https://web.archive.org/web/20030824091303/http://page.freett.com/dat2ch07/030620-1054050280.html) |
+| 2SLpJZIU | 08/12/05 | 2008年電波ソング大賞 | [View](https://web.archive.org/web/20100614213034/http://www.unkar.org/read/dubai.2ch.net/news/1228483464) |
+
+== wavesong (custom website)
+
+| ID | Date | Thread Title | Link |
+|----|------|--------------|------|
+| uBR9Xpjlnk | 05/12/31 | ２００５年電波ソング大賞を振り返って | [View](https://web.archive.org/web/20210922233418/http://wavesong.web.fc2.com/wavesong2005.html) |
 
 :::
 

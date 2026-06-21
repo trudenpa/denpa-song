@@ -149,16 +149,25 @@ export default defineConfig({
         link: '/reference/',
         items: [
           {
-            text: '<span class="i-lucide:file-search-corner"></span> Portals',
-            link: '/reference/portals'
+            text: '<span class="i-lucide:file-search-corner"></span> Hive',
+            link: '/reference/hive'
           },
           {
-            text: '<span class="i-lucide:book-marked"></span> Glossary',
-            link: '/reference/glossary'
+            text: '<span class="i-lucide:book-headphones"></span> Database',
+            link: '/reference/database'
           },
           {
-            text: '<span class="i-lucide:book-headphones"></span> Libraries',
-            link: '/reference/libraries'
+            text: '<span class="i-lucide:book-marked"></span> Wiki',
+            link: '/reference/wiki'
+          },
+          {
+            text: '<span class="i-lucide:file-box"></span> Projects',
+            link: '/reference/projects'
+          },
+          {
+            text: '<span class="i-lucide:file-spreadsheet"></span> Boards',
+            collapsed: true,
+            link: '/reference/boards'
           },
           {
             text: '<span class="i-lucide:file-user"></span> Blogposts',
@@ -172,15 +181,6 @@ export default defineConfig({
           {
             text: '<span class="i-lucide:messages-square"></span> Interviews',
             link: '/reference/interviews'
-          },
-          {
-            text: '<span class="i-lucide:file-box"></span> Projects',
-            link: '/reference/projects'
-          },
-          {
-            text: '<span class="i-lucide:file-spreadsheet"></span> Boards',
-            collapsed: true,
-            link: '/reference/boards'
           },
         ]
       },
