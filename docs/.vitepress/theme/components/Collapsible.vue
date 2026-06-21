@@ -3,7 +3,7 @@
     <button class="collapsible-header" @click="toggle">
       <span class="collapsible-icon">{{ isOpen ? '▾' : '▸' }}</span>
       <span class="collapsible-title"><slot name="title">{{ title }}</slot></span>
-      <img src="/assets/icon.png" class="collapsible-decoration" alt="" />
+      <img src="/assets/misc/icon.png" class="collapsible-decoration" alt="" />
     </button>
     <div class="collapsible-body" v-show="isOpen">
       <div class="collapsible-content">

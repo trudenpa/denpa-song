@@ -11,14 +11,14 @@ export default defineConfig({
     ]
   },
   head: [
-    ['link', { rel: 'icon', href: '/assets/icon.ico' }],
+    ['link', { rel: 'icon', href: '/assets/misc/icon.ico' }],
     ['meta', { name: 'google-site-verification', content: '3JRpQeAUujxZ0cO-7Tjqan1udYrgepMLMw5LQnnLXiU' }],
     ['meta', { property: 'og:title', content: 'Denpa Song Archive' }],
     ['meta', { property: 'og:description', content: 'Denpa Song Archive to please the heart of otaku!' }],
     ['meta', { property: 'og:url', content: 'https://denpa.aishitei.ru/' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:image', content: 'https://denpa.aishitei.ru/assets/banner.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://denpa.aishitei.ru/assets/banners/banner.png' }],
   ],
   sitemap: {
     hostname: 'https://denpa.aishitei.ru'
@@ -34,7 +34,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: '/assets/icon2.png',
+    logo: '/assets/misc/icon2.png',
     outline: {
       level: [1, 3],
       label: 'ｷﾀ━━(ﾟ∀ﾟ)━━!!!!.'

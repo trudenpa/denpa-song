@@ -25,6 +25,7 @@
 | [IOSYS](https://www.iosysos.com/){.primary} | [ARM](https://www.iosysos.com/creator-arm.html){.primary}, [D.watt](https://www.iosysos.com/creator-dwatt.html){.primary}, [uno](https://www.iosysos.com/creator-uno.html){.primary}, Shatyou, [Maron](https://www.iosysos.com/creator-maron.html){.primary}, [...] |
 | [Confetto](https://nanahira.jp/){.primary} | [Nanahira](https://nanahira.jp/#about){.primary} |
 | [Sham.Studio](https://www.sham.jp/studio/){.primary} | [MOSAIC.WAV](https://www.sham.jp/studio/faq.shtml){.primary}, [ika](https://www.sham.jp/studio/faq.shtml){.primary} |
+| [2-dimension](https://web.archive.org/web/20260314103020/https://2-dimension.net/){.primary} | [task](https://2-dimension.net/about/){.primary}|
 | Toromiseyasan | Toromi |
 | Fragarach | Akane Fujieda, Morrigan |
 | MEGA Yacchu Cannon | Yuhki Nakanome, sui, mitsu, yamako, Shindo Yomoku |

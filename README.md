@@ -15,7 +15,7 @@
 <div align="center">
   
 <a href="https://denpa-song-archive.github.io/denpa-song">
-  <img src="https://denpa.aishitei.ru/assets/banner.png" alt="Denpa Icon" width="200"/>
+  <img src="https://denpa.aishitei.ru/assets/banners/banner.png" alt="Denpa Icon" width="200"/>
 </a>
 
 </div>

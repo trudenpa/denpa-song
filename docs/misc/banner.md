@@ -61,6 +61,6 @@
 
 | Name | Banner |
 |------|--------|
-| [Denpa Song Archive](https://github.com/denpa-song-archive/denpa-song) | ![](/assets/banner.png) |
+| [Denpa Song Archive](https://github.com/denpa-song-archive/denpa-song) | ![](/assets/banners/banner.png) |
 
 </div>
