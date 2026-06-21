@@ -26,6 +26,7 @@
 | [Confetto](https://nanahira.jp/){.primary} | [Nanahira](https://nanahira.jp/#about){.primary} |
 | [Sham.Studio](https://www.sham.jp/studio/){.primary} | [MOSAIC.WAV](https://www.sham.jp/studio/faq.shtml){.primary}, [ika](https://www.sham.jp/studio/faq.shtml){.primary} |
 | [2-dimension](https://web.archive.org/web/20260314103020/https://2-dimension.net/){.primary} | [task](https://2-dimension.net/about/){.primary}|
+| [Ruriru Denpabu](https://profcard.info/u/tpunpkuyiQa6O4CiFXG1cRkXuq52) | Yukimi/Koharu |
 | Toromiseyasan | Toromi |
 | Fragarach | Akane Fujieda, Morrigan |
 | MEGA Yacchu Cannon | Yuhki Nakanome, sui, mitsu, yamako, Shindo Yomoku |
@@ -33,3 +34,5 @@
 | PNGN4 | Azusa Enoki, Mariya Ise, Yoshino Nanjo, Rina Hidaka |
 | Ukagaka Ongakubu | Yuel Y., Mizki_F, TeK, illes.fg, maco.fj, millefeui.fg, Deeps, MZK, Hiro.S, [...] |
 | Stein Gar Coo | KicK, megane, taiyaki |
+| Poly Pro Pylene | Reina |
+| PROJECT"D" | - |

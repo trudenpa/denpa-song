@@ -63,5 +63,5 @@
 | UtataP | team dmp☆ | [Twitter](https://x.com/tKomine){.secondary} [Youtube](https://www.youtube.com/user/tkomine){.secondary} [Tiktok](https://www.tiktok.com/@utatap3){.secondary} |
 | HatachiP | Maple Sugar | - |
 | Nunununununununu [...] | - | [Twitter](https://x.com/N____________u){.secondary} [Youtube](https://www.youtube.com/@N_u){.secondary} [Tiktok](https://www.tiktok.com/@n___________u){.secondary} |
-
+| [Nekomimi Mahoutsukai](https://web.archive.org/web/20160630171754/http://nekomimi.name/) | - | [Youtube](https://www.youtube.com/@DJMahoutsukaiDaisukeNishijima) [Soundcloud](https://soundcloud.com/djmahoutsukai) |
 :::

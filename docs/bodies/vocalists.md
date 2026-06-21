@@ -7,6 +7,10 @@
 
 </Collapsible>
 
-## Vocalists
+#### Pre 2010s
 
-<VocalistTable />
+<VocalistTable set="pre" title="Vocalist" />
+
+#### Post 2010s
+
+<VocalistTable set="post" title="Vocalist" />
