@@ -12,7 +12,7 @@
 | Song | February 7, 2018 | [...] | TouhouDB | [電波ソング](https://touhoudb.com/T/8/denpa) |
 | Overall | — | — | AniList | [Denpa Anime](https://anilist.co/search/anime?genres=Denpa) |
 | Overall | — | ellisha | LetterboxD | [Denpa on Screen](https://letterboxd.com/izumi/list/denpa-on-screen/) |
-| Song | — | — | Last.fm | [Denpa Artists](https://www.last.fm/tag/denpa/artists) |
+| Song | — | — | Lastfm | [Denpa Artists](https://www.last.fm/tag/denpa/artists) |
 | Song | — | Kolibiri, rubyfire77, MarilynRoxie, serilly, moonpoint, gucciandmoneyz, [...] | RateYourMusic | [Denpa](https://rateyourmusic.com/genre/denpa/) |
 
 == JP

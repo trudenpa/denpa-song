@@ -128,11 +128,15 @@
 
 :::
 
+---
+
 #### Spotify
 
 | Author | Playlist |
 |-|-|
 | Shamrock | [DENPA EPHEMERA / 電波ソング庫](https://open.spotify.com/playlist/1JhRAqciyC6lkZImt1zHWh?si=807c17172cd54fec) |
+
+---
 
 #### SoundCloud
 
