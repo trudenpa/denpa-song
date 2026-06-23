@@ -14,6 +14,7 @@
 | February 27, 2009 | FUJII Yoshihiko | 元祖「おたく」の時代(その6) | [View](http://www.t3.rim.or.jp/~boogie/e591.htm) |
 | March 7th, 2011 | Saitō Tamaki | Beautiful Fighting Girl | [View](https://www.thetedkarchive.com/library/saito-tamaki-beautiful-fighting-girl) |
 | 2011 | Patrick W Galbraith | Lolicon: The Reality of 'Virtual Child Pornography' in Japan | [View](https://files.catbox.moe/ka90tr.pdf) |
+| January 5, 2012 | Ryan Holmberg | The Bottom of a Bottomless Barrel: Introducing Akahon Manga | [View](https://www.tcj.com/the-bottom-of-a-bottomless-barrel-introducing-akahon-manga/) |
 | October 2, 2013 | Alice.Lemon | More Iczer, More Lemon| [View](http://lemoncomics.lolislove.us/) |
 | April 25, 2017 | Patrick W Galbraith | The Moé Manifesto: An Insider's Look at the Worlds of Manga, Anime, and Gaming | [View](https://archive.org/details/moemanifestoinsi0000galb/mode/1up) |
 | February 21, 2020 | Écrivez | 'Utaite' culture: the 'doujin' music behind Vocaloids | [View](https://lyhbcms.wordpress.com/2020/02/21/utaite-culture-the-doujin-music-behind-vocaloids/) |
@@ -26,3 +27,4 @@
 | - | mirai_yamada_62031 | History of Lolicon | [View](https://loli.aishitei.ru/history.html) |
 | - | ChosenX_ | Denpa-Kei: How a Mass Murder influenced Japanese Pop Culture (Tokyo Gas Attack post hold-over/build up post #1) | [View](https://watchpeopledie.tv/h/social/post/303554/denpakei-how-a-mass-murder-influenced) |
 | - | - | 2 Channel — English Navigator ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━!!!!! | [View](https://services.4-ch.net/2chportal/) |
+| - | Parzival | Honda Toru: The Otaku Critique | [View](https://www.scribd.com/document/856526091/Love-is-Dead) |

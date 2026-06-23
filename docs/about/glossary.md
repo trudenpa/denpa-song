@@ -246,6 +246,12 @@
 
 # Otaku Related Vocabulary
 
+<Collapsible title="Tip">
+
+- A lot of vocabulary is not covered not covered on this page as it does not really relate to denpa song as a whole so as a recommendation I would refer to one of Patrick W. Galbraith's works called "The Otaku Encyclopedia", a 2009 encyclopedia that provides even more context on certain slang & context
+
+</Collapsible>
+
 ::: tabs
 
 == Concepts
@@ -374,6 +380,15 @@
 == Doujin Culture
 
 <div class="term-grid">
+
+<div class="term-card">
+  <span class="term-main">赤本漫画</span>
+  <div class="term-details">
+    <span class="term-title">Akahon Manga</span>
+    <span class="term-subtitle">"Red Book" manga</span>
+    <span class="term-description">Cheap low-cost short-form manga booklets aimed at children & sold in post-war japan during the late 1940s and early 1950s but has also been present from before the war; sold through at shops such as 'Dagashiya' (駄菓子屋) & 'Kamishibai' (紙芝居); varying quality from pioneering works such as "New Treasure Island" by Osamu Tezuka (treated as the founder of modern manga who is referred to as "god of manga" [マンガの神様] & especially known for his Astro Boy series) to unoriginal works of low quality through unauthorized copying; akahon manga paved the way for modern manga</span>
+  </div>
+</div>
 
 <div class="term-card">
   <span class="term-main">漫画研究会</span>
@@ -814,6 +829,15 @@
 </div>
 
 <div class="term-card">
+  <span class="term-main">ドジっ娘</span>
+  <div class="term-details">
+    <span class="term-title">Dojikko</span>
+    <span class="term-subtitle">Clumsy girl</span>
+    <span class="term-description">A female character archetype who is awkward, prone to making harmless mistakes & failing everyday activities at school or home; often portrayed as endearing or lovable</span>
+  </div>
+</div>
+
+<div class="term-card">
   <span class="term-main">魔法少女</span>
   <div class="term-details">
     <span class="term-title">Mahou Shoujo</span>
@@ -842,7 +866,16 @@
   <div class="term-details">
     <span class="term-title">Otakingu</span>
     <span class="term-subtitle">Otaku King</span>
-    <span class="term-description">A nickname for Toshio Okada (岡田斗司夫); co-founder and former president of Gainax (the studio behind Neon Genesis Evangelion, Gunbuster, Gurren Lagann, etc); contributing to fixing the public image of otaku that had already been saddled with a negative image in the 1990s; he left Gainax to write books about otaku culture as well as lecture on the subject at Tokyo University</span>
+    <span class="term-description">A self-proclaimed nickname for Toshio Okada (岡田斗司夫); co-founder and former president of Gainax (the studio behind Neon Genesis Evangelion, Gunbuster, Gurren Lagann, etc); contributing to fixing the public image of otaku that had already been saddled with a negative image in the 1990s; he left Gainax to write books about otaku culture as well as lecture on the subject at Tokyo University</span>
+  </div>
+</div>
+
+<div class="term-card">
+  <span class="term-main">マンガの神様</span>
+  <div class="term-details">
+    <span class="term-title">Manga no Kamisama</span>
+    <span class="term-subtitle">God of Manga</span>
+    <span class="term-description">A honorary title most commonly associated with Osamu Tezuka, recognizing his transformative influence on modern manga; term reflects the immense cultural impact he had on postwar japanese comics and animation</span>
   </div>
 </div>
 

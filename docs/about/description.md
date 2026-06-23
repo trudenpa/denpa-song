@@ -11,13 +11,23 @@ to understand context, we must look at the environment; denpa-song went through 
   - v
   - 2010s-2020s [ DENPA EXPOSURE OVERSEAS (4chan /jp/) | RHYTHM GAMES | VTUBER INDUSTRY | "CUTECORE" ]
 
+please remember the folloqing quote: 
+
+"in japan the mainstream culture is always what's been adopted from foreign cultures. subculture is where real japanese culture lies."
+
 </Collapsible>
+
+---
+
+1940s-1950s:
+- post-war akahon manga aimed at children, paving the way for modern manga to come thanks to creators like Osamu Tezuka who is most notably known for his works 'New Treasure Island' and later 'Astro Boy'; marking the boom of the manga industry
+- american occupation had a huge impact on the cartooning industry at the time
 
 ---
 
 1960s:
 - 1960s marked protests by university students and lower-class migrant workers in urban areas against Vietnam War and American imperialism (youth radicalism)
-- 1960s marked the introduction of the mahou shoujo trope through the manga 'sally the witch' stating in July 1962 by Fujio Akatsuka
+- 1960s marked the introduction of the mahou shoujo trope through the manga 'The Secret of Akko-chan' written & illustrated by Fujio Akatsuka in July 1962 alongside 'Sally the Witch' written and illustrated by Mitsuteru Yokoyama in July 1966
 - university campus riots of 1968 to 1970
 - initial television anime boom in the 1960s
 
@@ -67,16 +77,16 @@ to understand context, we must look at the environment; denpa-song went through 
   - could not contain both graphic data and recorded sound due to storage limitations
 - Tsutomu Miyazaki incident had occured, causing a huge moral panic
   - marking the katakana otaku from here on out
-- ((Akihabara had began seeing sign of otaku being somewhat present in the mid-late 1980s))
 - until the late 1980s, approximately 80% of dojinshi artists attending Comic Market were female
   - universities began to boast not only manga clubs, but also, girls' manga clubs for men
 
 ---
 
 1990s:
-- lost decades kicking in starting in the early 1990s
+- lost decades kicking in starting in the early 1990s as the asset price bubble bursted
+- household electronics stores were going bankrupt, and stores began to shift away from consumer electronics to personal computers alongside relocating from akihabara to the suburbs or other chain stores such as 'Yodobashi Camera', 'Sakuraya' & 'Bic Camera' around Shinjuku, Shibuya & Ikebukuro
+  - therefore mainstream culture would fade away from this town and otaku-loathing women would gradually shift away too; families would stop coming; specialists & hobbyists remained; usually young males interested in computers, anime & games
 - Moore's Law started showing its true colors in the early 1990s; key ingredients for the eroge/visual-novel boom established
-- in early 1990s the asset price bubble bursted
 - katakana otaku (オタク) emerged roughly after tsutumo miyazaki incident that replaced the hiragana otaku (おたく)
 - during 1991 police arrested the managers of five specialist manga book shops where unpublished or amateur manga was available for sale
   - amateur manga artists were subjected to repeated investigations and harassment throughout the rest of the year
@@ -93,8 +103,11 @@ to understand context, we must look at the environment; denpa-song went through 
       - (CROSS†CHANNEL, SSSS.Gridman)
       - popular denpa vn authors SCA-DI & Tanaka Romeo
 - rise of moe songs (akiba-idol, theme songs, eroge songs) in the mid 1990s (inspired by idol culture, mahou shoujo genre, bishoujo & internet technology)
-- Neon Genesis Evangelion had aired starting in 1995
+- Neon Genesis Evangelion had aired starting in 1995, inspiring this period nicknamed by 'Evangelion Boom'
   - inspiring "Serial Experiments Lain", "Paranoia Agent", "Perfect Blue"
+  - starting the real akiba transformation, causing shops selling figurines and doujinshi to boom
+- Haruko Momoi, one of the earliest akiba-idols, recorded the song 'GURA GURA' in the center of akihabara in 1997
+- figure maker Kaiyodo moved from Shibuya to Akihabara, and other otaku-oriented stores followed
 - Beatmania released in December 1997, sparking the boom of music games in 1998
 - Dance Dance Revolution released in in 1998, finding huge success outside of japan as well
 - Windows PC (x86, Windows 95/98/2000)
@@ -111,18 +124,20 @@ to understand context, we must look at the environment; denpa-song went through 
 - StepMania was initially released in 2001 as an open source clone of Dance Dance Revolution
 - Guidebook of funny dempa song released in the jp community in 2003, making denpa song relevant across jp & western BBSes including 2ch, world2ch, 4-ch and more
 - vocaloid was released in January 15, 2004
-- Densha Otoko published October 22, 2004
+- Densha Otoko published October 22, 2004, alongside its TV drama in 2005
 - lolicore emerged in the mid 2000s which is more or less the western equivalent & extension of nerdcore techno that incorporates western bulletin board culture, moe/lolicon imagery, weeaboo culture mimicking otaku influence overseas & offensive language intended to gatekeep itself
 - Denpa Otoko (電波男) (in responde to Densha Otoko) published in May 2005
+- it is said that Akihabara truly peaked in the mid 2000s
 - nico nico douga was founded in 2006
 - osu! was released on September 2007
 - utaite have gradually popped up in the late 2000s in relation to nico nico douga
-- 2008 Akihabara massacre
-
+- Akihabara incident in June 8, 2008 which was caused by Kato Tomohiro who rented a truck and drove into & stabbed a crowd of visitors walking on Chuo-dori street in Akihabara
+  - resulting in Chuo-dori being opened to traffic on sundays which would kill public activity as the spot served as a gathering for otaku
+  - since this event, people would be arrested for posting threatening notices on BBS sites
 ---
 
 2010s:
-- 'Cool Japan' initiative was launched in the 2010s but proposed at least a decade prior
+- 'Cool Japan' initiative was launched in the 2010s to turn the spot into a tourist destination for pop culture but the initiative was proposed at least a decade prior
 - the ASMR format gradually emerged in the 2010s and is also found among the otaku/vtuber community prior to the establishment of the vtuber industry 
 - Gamergate occured in 2014 and shaped the landscape of social media & culture across the internet
 - mid-late 2010s introduces virtual youtubers and therefore gives passage to youtube outpacing nico nico douga and the new 'vtuber agency' model emerges
