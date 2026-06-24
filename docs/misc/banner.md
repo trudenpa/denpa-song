@@ -46,7 +46,7 @@
 | Vocalist | [UCO / Funta3](https://manu.heavy.jp/indexU2.html){.primary} | ![](https://blog-imgs-43-origin.fc2.com/m/o/e/moepdemp/uweb-banner_ani.gif) |
 | Vocalist | [yuayua](https://xxyua39.web.fc2.com/){.primary} | ![](https://xxyua39.web.fc2.com/img/0717sub.png) |
 | Vocalist | [Shinamon Sugar](https://shinamonsugar.web.fc2.com/){.primary} | ![](https://shinamonsugar.web.fc2.com/images/2020sM3_bn.jpg) |
-| Vocalist | [Nomico](https://ameblo.jp/nomico-honey/){.primary} | ![](https://web.archive.org/web/20170803110634im_/http://3.bp.blogspot.com/_09qR2m5Mwbo/TF2jKMA_x2I/AAAAAAAAAFQ/Tjk27iFS3T0/S240/nomico_link.gif) |
+| Vocalist | [nomico](https://ameblo.jp/nomico-honey/){.primary} | ![](https://web.archive.org/web/20170803110634im_/http://3.bp.blogspot.com/_09qR2m5Mwbo/TF2jKMA_x2I/AAAAAAAAAFQ/Tjk27iFS3T0/S240/nomico_link.gif) |
 | Vocalist | [Berry Maisaki](https://www.maisakiberry.com/){.primary} | ![](https://static.wixstatic.com/media/8c3d0d_df8a4ae2c07a4e5baac09b0c997dc063~mv2.png/v1/crop/x_0,y_0,w_1732,h_735/fill/w_766,h_324,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/rogo1.png) |
 | Vocalist | [KOTOKO](https://www.kotoko.asia/){.primary} | ![](https://web.archive.org/web/20130831012530im_/http://www.kotoko.asia/wp-content/themes/mutantdwarf/img/banner_warner.png) |
 | Vocalist | [Haruko Momoi](https://web.archive.org/web/20250430094224/https://rg-music.com/momoi/){.primary} | ![](https://web.archive.org/web/20170803110634im_/http://4.bp.blogspot.com/_09qR2m5Mwbo/TF18xV5PXwI/AAAAAAAAADI/xKUU-Q9ZRXI/S1600-R/momoi_link.jpg) |

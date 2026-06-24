@@ -244,6 +244,8 @@
 
 :::
 
+---
+
 # Otaku Related Vocabulary
 
 <Collapsible title="Tip">

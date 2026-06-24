@@ -11,6 +11,8 @@
 
 <VocalistTable set="pre" title="Vocalist" />
 
+---
+
 #### Post 2010s
 
 <VocalistTable set="post" title="Vocalist" />

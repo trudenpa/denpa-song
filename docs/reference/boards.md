@@ -6,6 +6,8 @@
 |----------|--------------|--------|-------|
 | Overall | June, 2004 | - | [2ch.net 電波お花畑](https://web.archive.org/web/20040630082012/http://etc3.2ch.net/denpa/) |
 
+---
+
 #### Threads
 
 :::: tabs

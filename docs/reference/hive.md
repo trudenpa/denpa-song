@@ -11,6 +11,8 @@
 | Song | 2025 | — | [DENPA SONG RESOURCES](https://denpasong.nekoweb.org/index.html) |
 | Song | - | - | [DempaSongsManiacs](https://web.archive.org/web/20220517204403/https://sites.google.com/site/dempasongscollection/home) |
 
+---
+
 #### Portals
 
 | Category | Publish Date | Author | Entry |
@@ -22,11 +24,15 @@
 | Song | - | JaneLHAdXg | [電波ソング大賞](https://2009.wsong.net/) |
 | Song | - | - | [2010電波ソング大賞](http://2010.wsong.net/) |
 
+---
+
 #### Archives
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
 | Overall | February 12, 2022 | denpaarchivist | [the Denpa Archive](https://denpaarchive.neocities.org) |
+
+---
 
 #### Rankings
 
