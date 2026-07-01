@@ -25,7 +25,7 @@
 }
 
 #VPSidebarNav .group .items .VPSidebarItem {
-    border-left: 6px solid color-mix(in srgb, var(--vp-c-divider) 50%, transparent) !important;
+    border-left: 5px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent) !important;
     border-radius: 0 !important;
     margin-left: 0 !important;
     padding-left: 10px !important;
@@ -73,7 +73,7 @@
 }
 
 .VPDocAsideOutline .content {
-    border-left: 6px solid color-mix(in srgb, var(--vp-c-divider) 50%, transparent);
+    border-left: 5px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
 }
 
 .outline-link {
