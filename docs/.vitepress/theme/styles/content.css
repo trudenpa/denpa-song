@@ -24,8 +24,9 @@
 }
 */
 
-.content[data-v-10119189] {
-    padding: 0 0 !important;
+.VPDoc .content:not(.VPDocAside .content) {
+    padding: 0 !important;
+    padding-bottom: 0 !important;
 }
 
 .VPContent .content-container h1 {
