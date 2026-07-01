@@ -4,16 +4,20 @@
     background-color: var(--vp-c-bg-soft) !important;
     margin: 15px 0 !important;
     margin-right: 10px !important;
-    padding-top: 45px !important;
+    padding-top: 0px !important;
     padding-bottom: 24px !important;
     /*
     box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
     */
 }
 
+.VPSidebar .group {
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
 #VPSidebarNav *,
 #VPSidebarNav>.group {
-    border-top: 0 !important;
     min-height: 0px;
     padding-top: 0px;
 }
@@ -25,7 +29,7 @@
 }
 
 #VPSidebarNav .group .items .VPSidebarItem {
-    border-left: 5px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent) !important;
+    /* border-left: 5px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent) !important; */
     border-radius: 0 !important;
     margin-left: 0 !important;
     padding-left: 10px !important;
@@ -73,7 +77,8 @@
 }
 
 .VPDocAsideOutline .content {
-    border-left: 5px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
+    border-left: 0px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
+    margin-top: -53px !important;
 }
 
 .outline-link {

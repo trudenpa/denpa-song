@@ -4,14 +4,21 @@ h1,
 h2,
 h3 {
     background: color-mix(in srgb, var(--vp-c-brand-1) 0%, transparent);
-    /* border-left: 1px solid var(--vp-c-divider); */
     padding: 0px 12px;
     border-top: 0 !important;
 }
 
 h2>* {
-    margin-left: 16px;
+    margin-left: 10px;
 }
+
+/* 
+.VPSidebar h2 {
+    background: transparent !important;
+    border: 2px dotted color-mix(in srgb, var(--vp-c-brand-1) 50%, transparent) !important;
+    margin: 4px 0 !important;
+}
+*/
 
 .header-anchor {
     position: absolute !important;

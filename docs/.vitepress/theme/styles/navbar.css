@@ -40,11 +40,17 @@ body:has(.VPHome) .VPNavBarAppearance {
     border-bottom: none !important;
 }
 
+@media (min-width: 1440px) {
+    .VPNavBar.has-sidebar .content {
+        padding-right: 0 !important;
+    }
+}
+
 .VPNavBarTitle {
     opacity: 0;
     transition: opacity 0.15s ease, transform 0.15s ease;
     will-change: opacity, transform;
-    margin-top: 41px
+    margin-top: 25px
 }
 
 .VPNavBarTitle.visible {
@@ -65,7 +71,7 @@ body:has(.VPHome) .VPNavBarAppearance {
     margin-right: 12px;
     transition: transform 0.15s ease;
     pointer-events: none !important;
-    margin-left: 5px;
+    margin-left: 0px;
     max-width: 40px;
     outline: 1px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
 }
